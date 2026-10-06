@@ -1,0 +1,14 @@
+{
+  "phishing":              {"label": "Phishing",                       "is_scam": true,  "action": "Do not click links or open attachments. Go to the sender's official website or app by typing the address yourself."},
+  "bank_kyc":              {"label": "Bank/KYC Scam",                  "is_scam": true,  "action": "Banks do not ask you to update KYC through links in SMS. Open your bank's official app or visit a branch to check."},
+  "upi_payment":           {"label": "UPI/Payment Scam",               "is_scam": true,  "action": "Never approve a collect request or scan a QR code to RECEIVE money. Receiving money never needs your PIN."},
+  "job_internship":        {"label": "Job/Internship Scam",            "is_scam": true,  "action": "Genuine employers do not charge fees to hire you. Verify the company on its official careers page before replying."},
+  "investment":            {"label": "Investment Scam",                "is_scam": true,  "action": "Guaranteed high returns are a red flag. Check that the platform is registered with SEBI before sending money."},
+  "prize_lottery":         {"label": "Prize/Lottery Scam",             "is_scam": true,  "action": "You cannot win a contest you did not enter. Do not pay any claim fee or share details."},
+  "support_impersonation": {"label": "Customer-Support Impersonation", "is_scam": true,  "action": "Do not install remote-access apps or call numbers from the message. Find the support number on the official website."},
+  "govt_impersonation":    {"label": "Government/Service Impersonation","is_scam": true, "action": "Government bodies do not demand payment or personal data over SMS or calls. Verify on the official .gov.in site."},
+  "account_verification":  {"label": "Account Verification Scam",      "is_scam": true,  "action": "Do not verify through the link. Log in by typing the official address in your browser and check notifications there."},
+  "credential_theft":      {"label": "Credential Theft",               "is_scam": true,  "action": "Never share passwords, OTPs or PINs. If you already did, change your password and contact the provider immediately."},
+  "legitimate":            {"label": "Legitimate Communication",       "is_scam": false, "action": "No strong scam indicators found. Stay cautious and verify through official channels if anything feels unusual."},
+  "unknown":               {"label": "Unknown/Uncertain",              "is_scam": false, "action": "Uncertain result. Verify the sender through an official channel before acting."}
+}

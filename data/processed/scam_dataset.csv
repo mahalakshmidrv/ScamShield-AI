@@ -1,0 +1,949 @@
+id,text,language,category,label,source_type,template_id,split,data_origin
+1,"Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 499 fee anuppunga. Reply if you need help. http://paytm-rewards.example.xyz/claim",tamil_english,prize_lottery,scam,social,1034,train,synthetic
+2,"Important: Unga order dispatch aagiduchu, naalaiku delivery varum.",tamil_english,legitimate,legitimate,email,1091,train,synthetic
+3,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 25,000 claim fee to receive your reward. http://192.0.2.15/login",english,prize_lottery,scam,sms,19,train,synthetic
+4,"Dear candidate, your internship offer at CloudNest Pvt Ltd is ready. Transfer a processing fee of Rs. 1,500 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+5,"Ungal Axis Bank account block aagidum, KYC update pannunga udane: https://bit.ly/3xKycUp",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+6,Notice: Your card is locked; share your CVV and OTP to unlock it. Click here: http://paytm-rewards.example.xyz/claim,english,credential_theft,scam,sms,1059,val,synthetic
+7,This is Axis Bank customer care. Your account has suspicious activity. Install AnyDesk and share the code so we can secure it.,english,support_impersonation,scam,sms,23,train,synthetic
+8,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 1,500 security deposit and your bank details. https://secure-bank-verify.example.net/auth",english,job_internship,scam,sms,13,train,synthetic
+9,"Cyber Police Notice: a case is registered against your Aadhaar. Pay a penalty of Rs. 25,000 immediately or face arrest.",english,govt_impersonation,scam,sms,28,train,synthetic
+10,IT Helpdesk: confirm your username and password at http://192.0.2.15/login to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+11,"Notice: Invest Rs. 25,000 today and get guaranteed 240% returns within 12 days.",english,investment,scam,social,1021,val,synthetic
+12,We regret to inform you that your Canara Bank account has been restricted due to incomplete KYC. Kindly confirm your details at https://bit.ly/3xKycUp to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+13,Your credit card statement is ready. Never share your card details or OTP with anyone. Log in to the official app to view it.,english,legitimate,legitimate,sms,51,train,synthetic
+14,Your SBI net banking will be deactivated. Complete KYC now or face legal action. tinyurl.com/kyc-now,english,bank_kyc,scam,sms,3,train,synthetic
+15,"Hi Divya, naalaiku meeting 10 AM-ku irukku. Please time-ku vanga. Thanks.",tamil_english,legitimate,legitimate,sms,57,train,synthetic
+16,"Hi Arun, the team meeting is moved to 3 PM tomorrow. Please update your calendar. Regards, Priya",english,legitimate,legitimate,email,46,train,synthetic
+17,Alert: A new sign-in from Chennai was noticed; if it was you no action is needed. Reply if you need help.,english,legitimate,legitimate,sms,1086,train,synthetic
+18,"Congratulations Arun! You are selected for work from home at TechNova Solutions. Pay a refundable registration fee of Rs. 2,999 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+19,"Hello, Your courier is on hold at the depot; pay a re-delivery fee of Rs. 5,000 to avoid return. Please do it today. Visit http://sbi-kyc-update.example.com/verify",english,support_impersonation,scam,social,1038,val,synthetic
+20,Your resume is shortlisted by Zenith Global; pay the training kit charges of Rs. 499 to receive the offer letter.,english,job_internship,scam,social,1018,train,synthetic
+21,"Hello, This is HDFC Bank customer care, we detected suspicious activity; install a remote access app so we can fix it. Regards, Team.",english,support_impersonation,scam,email,1035,test,synthetic
+22,Important: Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Act immediately. Click here: tinyurl.com/kyc-now,english,govt_impersonation,scam,social,1043,train,synthetic
+23,"Dear customer, Your cab is arriving in 3 minutes; share the trip code only with the driver. Thank you.",english,legitimate,legitimate,social,1085,test,synthetic
+24,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 2,999 to start today. https://secure-bank-verify.example.net/auth",english,investment,scam,social,16,train,synthetic
+25,"Dear customer, Your subscription account needs re-verification to avoid suspension. Reply if you need help. tinyurl.com/kyc-now",english,account_verification,scam,sms,1053,val,synthetic
+26,Your subscription payment was declined. Update your billing information immediately at http://192.0.2.15/login to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+27,Notice: Join our VIP stock tips group for sure-shot profits and guaranteed returns. Reply if you need help. Visit https://secure-bank-verify.example.net/auth,english,investment,scam,email,1023,val,synthetic
+28,"Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 25,000 fee anuppunga. Thank you. Visit https://bit.ly/3xKycUp",tamil_english,prize_lottery,scam,email,1034,train,synthetic
+29,"Hi Priya, Your document is ready for e-signature; log in with your email to open it.",english,phishing,scam,social,1068,train,synthetic
+30,"Hello, Payment of Rs. 1,500 is stuck; confirm with your UPI PIN to reverse the transaction. http://192.0.2.15/login",english,upi_payment,scam,sms,1011,val,synthetic
+31,Ungal SBI statement ready aagiduchu. Official app-la login pannitu paarunga. OTP yaarukum share pannathinga.,tamil_english,legitimate,legitimate,sms,69,test,synthetic
+32,IT Helpdesk: confirm your username and password at http://sbi-kyc-update.example.com/verify to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+33,Cashback of Rs. 499 is waiting. Accept the collect request in your payment app within 2 minutes.,english,upi_payment,scam,sms,8,train,synthetic
+34,This is ICICI Bank customer care. Your account has suspicious activity. Install AnyDesk and share the code so we can secure it.,english,support_impersonation,scam,sms,23,train,synthetic
+35,Important: Thanks for attending the interview at CloudNest Pvt Ltd; results will be shared via the careers portal and no fees are charged at any stage. Act immediately.,english,legitimate,legitimate,social,1077,val,synthetic
+36,"Hi Karthik, Provide your login credentials and the code sent to your phone for verification. Regards, Team. Visit tinyurl.com/kyc-now",english,credential_theft,scam,social,1061,test,synthetic
+37,Important: Traffic department: an unpaid challan of Rs. 499 is pending; pay now to avoid court notice. Act immediately. Click here: https://secure-bank-verify.example.net/auth,english,govt_impersonation,scam,social,1046,train,synthetic
+38,"Customs Department: your parcel contains illegal items. Pay Rs. 1,500 clearance fee at http://sbi-kyc-update.example.com/verify to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+39,"Earn passive income of Rs. 1,500 every day with our AI trading bot. 100% profit guaranteed. Register: http://sbi-kyc-update.example.com/verify",english,investment,scam,sms,18,train,synthetic
+40,Alert: Your courier is on hold at the depot; pay a re-delivery fee of Rs. 499 to avoid return. Tap the link: http://sbi-kyc-update.example.com/verify,english,support_impersonation,scam,email,1038,val,synthetic
+41,Alert: The team meeting has moved to 3 PM tomorrow; please update your calendar. Details: https://www.example.com/help,english,legitimate,legitimate,email,1073,train,synthetic
+42,"Notice: Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 2,999. Please do it today.",english,job_internship,scam,social,1019,test,synthetic
+43,"Unga account-ku Rs. 1,500 cashback kidaikum. UPI PIN anuppunga udane, illana cancel aagidum.",tamil_english,upi_payment,scam,sms,9,train,synthetic
+44,"Your HDFC Bank credit of Rs. 1,500 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+45,"Hi Karthik, Police notice: unga Aadhaar-la case irukku, Rs. 1,500 penalty udane kattunga. Regards, Team.",tamil_english,govt_impersonation,scam,social,1048,train,synthetic
+46,"Your electricity bill of Rs. 5,000 for September is generated. You can pay it in the official app before the due date.",english,legitimate,legitimate,email,47,train,synthetic
+47,"Your cashback of Rs. 2,999 is ready, accept the collect request to receive it. Act immediately.",english,upi_payment,scam,sms,1010,train,synthetic
+48,"Notice: Police notice: unga Aadhaar-la case irukku, Rs. 5,000 penalty udane kattunga. Please do it today. Visit http://paytm-rewards.example.xyz/claim",tamil_english,govt_impersonation,scam,sms,1048,train,synthetic
+49,"Cashback of Rs. 2,999 is waiting. Accept the collect request in your payment app within 4 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+50,A shared file is waiting for you. Kindly click the link below to open it. tinyurl.com/kyc-now,english,phishing,scam,email,40,test,synthetic
+51,"Dear customer, Your recharge of Rs. 2,999 was successful and validity is extended by 28 days.",english,legitimate,legitimate,email,1083,val,synthetic
+52,"Hi Suresh, To receive Rs. 499 in your wallet, authorise the payment request now. Please do it today.",english,upi_payment,scam,email,1012,train,synthetic
+53,"Important: Project submission naalaiku, unga part anuppunga please. Thank you.",tamil_english,legitimate,legitimate,sms,1093,train,synthetic
+54,"Customs Department: your parcel contains illegal items. Pay Rs. 1,500 clearance fee at http://192.0.2.15/login to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+55,"Your payment of Rs. 2,999 to TechNova Solutions was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+56,"Alert: Unga Rs. 1,500 refund-ku UPI PIN anuppunga, collect request approve pannunga. Thank you.",tamil_english,upi_payment,scam,sms,1013,train,synthetic
+57,"Hi Arun, Your document is ready for e-signature; log in with your email to open it. Regards, Team. Visit https://bit.ly/3xKycUp",english,phishing,scam,social,1068,train,synthetic
+58,Please review the attached invoice and sign in to view the document: http://sbi-kyc-update.example.com/verify,english,phishing,scam,email,39,val,synthetic
+59,"Hello, Your ICICI Bank account KYC has expired and the account will be blocked. Tap the link: https://bit.ly/3xKycUp",english,bank_kyc,scam,social,1000,test,synthetic
+60,"Your payment of Rs. 2,999 to BrightPath Infotech was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+61,Notice: Unusual sign-in detected on your account; verify your identity or it will be closed. Click here: https://bit.ly/3xKycUp,english,account_verification,scam,sms,1049,val,synthetic
+62,"Hi Divya, Your subscription payment was declined; update your billing information to avoid cancellation. Regards, Team. Click here: http://paytm-rewards.example.xyz/claim",english,phishing,scam,email,1066,train,synthetic
+63,"Hi Priya, Your library book is due tomorrow; return it to avoid the late fee as per college rules.",english,legitimate,legitimate,sms,1084,val,synthetic
+64,Alert: Your package could not be delivered; reschedule your delivery using the link.,english,phishing,scam,sms,1065,train,synthetic
+65,"Notice: Unga Rs. 5,000 refund-ku UPI PIN anuppunga, collect request approve pannunga. Regards, Team. Visit http://paytm-rewards.example.xyz/claim",tamil_english,upi_payment,scam,email,1013,train,synthetic
+66,"Dear customer, Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 1,500 to release the prize. Act immediately.",english,prize_lottery,scam,social,1030,val,synthetic
+67,Important: Your mailbox is full and will be deactivated unless you verify your account. Visit http://sbi-kyc-update.example.com/verify,english,account_verification,scam,email,1050,train,synthetic
+68,Notice: You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 499. Visit http://sbi-kyc-update.example.com/verify,english,prize_lottery,scam,social,1029,test,synthetic
+69,"Hi Priya, naalaiku meeting 10 AM-ku irukku. Please time-ku vanga. Thanks.",tamil_english,legitimate,legitimate,sms,57,train,synthetic
+70,"Congratulations Divya! You are selected for work from home at CloudNest Pvt Ltd. Pay a refundable registration fee of Rs. 1,500 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+71,Security notice: unusual sign-in detected. Verify your account within 12 hours or it will be closed. http://192.0.2.15/login,english,account_verification,scam,email,31,test,synthetic
+72,"Dear customer, Your order has been shipped and will arrive by Friday; you can track it in the app. Please do it today.",english,legitimate,legitimate,social,1072,train,synthetic
+73,"Hi Arun, Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Thank you.",english,legitimate,legitimate,email,1075,train,synthetic
+74,Alert: A shared file is waiting for you; open the link to view it.,english,phishing,scam,sms,1064,train,synthetic
+75,Please review the attached invoice and sign in to view the document: http://paytm-rewards.example.xyz/claim,english,phishing,scam,email,39,val,synthetic
+76,Your subscription payment was declined. Update your billing information immediately at http://sbi-kyc-update.example.com/verify to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+77,"Dear candidate, your internship offer at CloudNest Pvt Ltd is ready. Transfer a processing fee of Rs. 2,999 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+78,"Important: I sent Rs. 2,999 to you by mistake, please accept the request on your UPI app and send the PIN. Click here: tinyurl.com/kyc-now",english,upi_payment,scam,social,1009,test,synthetic
+79,Important: Our crypto scheme will double your money with zero risk. http://192.0.2.15/login,english,investment,scam,social,1022,train,synthetic
+80,"Notice: Your internship offer from BrightPath Infotech is ready after you pay a refundable deposit of Rs. 2,999. Please do it today. http://sbi-kyc-update.example.com/verify",english,job_internship,scam,sms,1015,train,synthetic
+81,"Dear customer, Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Regards, Team. http://paytm-rewards.example.xyz/claim",english,govt_impersonation,scam,social,1043,train,synthetic
+82,Our crypto scheme will double your money with zero risk. Please do it today. Visit http://192.0.2.15/login,english,investment,scam,social,1022,train,synthetic
+83,"Your HDFC Bank account is on hold until PAN and Aadhaar are re-verified. Regards, Team.",english,bank_kyc,scam,email,1001,train,synthetic
+84,"Hi Arun, naalaiku meeting 10 AM-ku irukku. Please time-ku vanga. Thanks.",tamil_english,legitimate,legitimate,sms,57,train,synthetic
+85,Reminder: your appointment is scheduled for Monday at 10 AM. Reply C to confirm or call the clinic to reschedule.,english,legitimate,legitimate,sms,48,train,synthetic
+86,"Work from home velai, sambalam Rs. 5,000 daily. Registration kattanam Rs. 25,000 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+87,"Hello, Your payment of Rs. 5,000 to BrightPath Infotech was received; this is an automated receipt. Reply if you need help. Visit https://www.example.org/track",english,legitimate,legitimate,email,1089,val,synthetic
+88,Security notice: unusual sign-in detected. Verify your account within 2 hours or it will be closed. https://bit.ly/3xKycUp,english,account_verification,scam,email,31,test,synthetic
+89,"Dear customer, Deposit Rs. 5,000 into our forex platform and withdraw triple profit next week. Please do it today. Tap the link: https://secure-bank-verify.example.net/auth",english,investment,scam,social,1026,test,synthetic
+90,"Hi Divya, Earn Rs. 499 daily by liking videos, no interview needed, joining fee applies.",english,job_internship,scam,sms,1016,train,synthetic
+91,"Dear Divya, thank you for attending the interview at Zenith Global. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+92,"Hi Karthik, Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew. Act immediately. Details: https://www.example.com/help",english,legitimate,legitimate,sms,1087,train,synthetic
+93,"Congratulations Suresh! You are selected for work from home at BrightPath Infotech. Pay a refundable registration fee of Rs. 2,999 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+94,"Congratulations, you have won a lucky draw prize; pay Rs. 2,999 to claim it. Click here: https://bit.ly/3xKycUp",english,prize_lottery,scam,email,1028,train,synthetic
+95,"You have received a collect request of Rs. 25,000. Approve it and enter your UPI PIN to receive the refund.",english,upi_payment,scam,sms,5,train,synthetic
+96,Technical support here: your device has a virus; download the support tool and give us access. Tap the link: http://sbi-kyc-update.example.com/verify,english,support_impersonation,scam,sms,1036,train,synthetic
+97,"Hello, You have won a gift voucher worth Rs. 5,000; confirm your card details to receive it. Thank you.",english,prize_lottery,scam,email,1031,train,synthetic
+98,"Hi Karthik, This is Canara Bank customer care, we detected suspicious activity; install a remote access app so we can fix it. Please do it today.",english,support_impersonation,scam,email,1035,test,synthetic
+99,"Alert: The team meeting has moved to 3 PM tomorrow; please update your calendar. Regards, Team.",english,legitimate,legitimate,sms,1073,train,synthetic
+100,"Hey Karthik, are we still on for dinner on Saturday? Let me know what time works for you.",english,legitimate,legitimate,social,49,test,synthetic
+101,"Dear customer, Scan the QR code below and enter your PIN to get your refund of Rs. 5,000. Tap the link: http://paytm-rewards.example.xyz/claim",english,upi_payment,scam,email,1008,train,synthetic
+102,"Dear customer, Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Details: https://www.example.com/help",english,legitimate,legitimate,sms,1075,train,synthetic
+103,"Your ICICI Bank credit of Rs. 25,000 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+104,"Your electricity bill of Rs. 1,500 for September is generated. You can pay it in the official app before the due date.",english,legitimate,legitimate,email,47,train,synthetic
+105,"Your train PNR 4521897 is confirmed. Coach S4, seat 23. Carry a valid ID proof during the journey.",english,legitimate,legitimate,sms,53,train,synthetic
+106,Please review the attached invoice and sign in to view the document: https://bit.ly/3xKycUp,english,phishing,scam,email,39,val,synthetic
+107,"Traffic department: an unpaid challan of Rs. 499 is pending; pay now to avoid court notice. Regards, Team. Click here: http://sbi-kyc-update.example.com/verify",english,govt_impersonation,scam,social,1046,train,synthetic
+108,Winner announcement: claim your cash reward by paying a small processing fee. Thank you. Tap the link: http://sbi-kyc-update.example.com/verify,english,prize_lottery,scam,email,1032,train,synthetic
+109,"Hello, You have a new voice message; sign in to listen to it. Regards, Team.",english,phishing,scam,sms,1067,train,synthetic
+110,Important: Ungal Canara Bank account KYC update illana block aagidum. Click here: tinyurl.com/kyc-now,tamil_english,bank_kyc,scam,sms,1006,train,synthetic
+111,Important: Your cab is arriving in 3 minutes; share the trip code only with the driver. Act immediately.,english,legitimate,legitimate,sms,1085,test,synthetic
+112,"Your SBI credit of Rs. 2,999 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+113,"Hello, Your library book is due tomorrow; return it to avoid the late fee as per college rules.",english,legitimate,legitimate,social,1084,val,synthetic
+114,"Dear Priya, thank you for attending the interview at CloudNest Pvt Ltd. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+115,Your subscription payment was declined; update your billing information to avoid cancellation. https://secure-bank-verify.example.net/auth,english,phishing,scam,sms,1066,train,synthetic
+116,"Cashback of Rs. 2,999 is waiting. Accept the collect request in your payment app within 12 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+117,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 5,000 fee anuppunga: tinyurl.com/kyc-now",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+118,"Alert: Your resume is shortlisted by TechNova Solutions; pay the training kit charges of Rs. 2,999 to receive the offer letter. Tap the link: http://paytm-rewards.example.xyz/claim",english,job_internship,scam,social,1018,train,synthetic
+119,"Dear customer, Your account has been temporarily limited; confirm your identity to restore access.",english,account_verification,scam,sms,1051,test,synthetic
+120,"Your SBI OTP for the online purchase of Rs. 5,000 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+121,"Amazon Support: your order of Rs. 2,999 will be charged. If this was not you, call our helpline immediately and share the OTP.",english,support_impersonation,scam,email,24,train,synthetic
+122,"Hello, Your courier is on hold at the depot; pay a re-delivery fee of Rs. 1,500 to avoid return. Reply if you need help. Visit tinyurl.com/kyc-now",english,support_impersonation,scam,sms,1038,val,synthetic
+123,"Unga account-ku Rs. 499 cashback kidaikum. UPI PIN anuppunga udane, illana cancel aagidum.",tamil_english,upi_payment,scam,sms,9,train,synthetic
+124,"Important: Earn Rs. 2,999 daily by liking videos, no interview needed, joining fee applies. Tap the link: tinyurl.com/kyc-now",english,job_internship,scam,email,1016,train,synthetic
+125,We noticed a policy violation on your page. Verify your account in 24 hours or it will be permanently disabled. http://paytm-rewards.example.xyz/claim,english,account_verification,scam,social,34,train,synthetic
+126,"Hello, You have won a gift voucher worth Rs. 1,500; confirm your card details to receive it. Tap the link: http://sbi-kyc-update.example.com/verify",english,prize_lottery,scam,sms,1031,train,synthetic
+127,"Hello, Your order of Rs. 1,500 will be charged; if this was not you call our helpline and share the OTP. Tap the link: http://sbi-kyc-update.example.com/verify",english,support_impersonation,scam,social,1037,test,synthetic
+128,"Dear Karthik, your Axis Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+129,A shared file is waiting for you. Kindly click the link below to open it. http://paytm-rewards.example.xyz/claim,english,phishing,scam,email,40,test,synthetic
+130,Security notice: unusual sign-in detected. Verify your account within 4 hours or it will be closed. https://bit.ly/3xKycUp,english,account_verification,scam,email,31,test,synthetic
+131,"Dear Karthik, thank you for attending the interview at Zenith Global. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+132,"Axis Bank: Rs. 1,250 debited from A/c XX4521 on 03-Oct. If not you, call the number on the back of your card.",english,legitimate,legitimate,sms,44,test,synthetic
+133,Guaranteed 120% returns in 2 days! Invest Rs. 499 in our crypto scheme and double your money. http://paytm-rewards.example.xyz/claim,english,investment,scam,social,15,train,synthetic
+134,"Notice: Work from home velai kidaikum, registration kattanam Rs. 2,999 anuppunga.",tamil_english,job_internship,scam,email,1020,train,synthetic
+135,"Dear customer, You have a pending collect request of Rs. 25,000; approve it and enter your UPI PIN to receive money. Act immediately.",english,upi_payment,scam,social,1007,test,synthetic
+136,"Notice: Your password was changed successfully; if this was not you, reset it from the official website. Regards, Team.",english,legitimate,legitimate,social,1081,train,synthetic
+137,"Earn Rs. 1,500 daily by liking videos, no interview needed, joining fee applies. Regards, Team. tinyurl.com/kyc-now",english,job_internship,scam,social,1016,train,synthetic
+138,"Important: I sent Rs. 5,000 to you by mistake, please accept the request on your UPI app and send the PIN. Reply if you need help. http://paytm-rewards.example.xyz/claim",english,upi_payment,scam,social,1009,test,synthetic
+139,Alert: Your password expires today; enter your current password to keep your account active. Tap the link: http://192.0.2.15/login,english,credential_theft,scam,sms,1056,test,synthetic
+140,Notice: Your document is ready for e-signature; log in with your email to open it. Visit https://bit.ly/3xKycUp,english,phishing,scam,email,1068,train,synthetic
+141,"Dear customer, Your ICICI Bank debit card will be deactivated because KYC is pending. Regards, Team. http://sbi-kyc-update.example.com/verify",english,bank_kyc,scam,sms,1003,val,synthetic
+142,"Hello, Your order has been shipped and will arrive by Friday; you can track it in the app.",english,legitimate,legitimate,sms,1072,train,synthetic
+143,"Da, inniku evening cricket match irukku, vara mudiyuma? Let me know.",tamil_english,legitimate,legitimate,social,58,train,synthetic
+144,"Earn passive income of Rs. 5,000 every day with our AI trading bot. 100% profit guaranteed. Register: tinyurl.com/kyc-now",english,investment,scam,sms,18,train,synthetic
+145,Congrats Divya on your new job! Let's catch up this weekend and celebrate.,english,legitimate,legitimate,social,55,train,synthetic
+146,"Project submission naalaiku, unga part anuppunga please. Please do it today. Visit https://www.example.org/track",tamil_english,legitimate,legitimate,social,1093,train,synthetic
+147,"Hi Divya, Naalaiku meeting 10 AM-ku irukku, time-ku vanga. Reply if you need help.",tamil_english,legitimate,legitimate,sms,1090,val,synthetic
+148,"Hi Arun, Security check required: confirm your account ownership to continue using the service. Please do it today. Tap the link: tinyurl.com/kyc-now",english,account_verification,scam,sms,1054,train,synthetic
+149,"Alert: Your password was changed successfully; if this was not you, reset it from the official website. Thank you.",english,legitimate,legitimate,social,1081,train,synthetic
+150,"Hi Suresh, Join our VIP stock tips group for sure-shot profits and guaranteed returns. Please do it today. Visit https://secure-bank-verify.example.net/auth",english,investment,scam,social,1023,val,synthetic
+151,"Hello, Your train ticket is confirmed for coach S4; carry a valid ID proof. Act immediately. Details: https://www.example.org/track",english,legitimate,legitimate,sms,1080,test,synthetic
+152,SBI: your card is locked. Share your CVV and OTP to unlock it right now.,english,credential_theft,scam,sms,38,train,synthetic
+153,"Your payment of Rs. 1,500 to Zenith Global was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+154,"Dear Karthik, thank you for attending the interview at TechNova Solutions. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+155,"Part-time job: earn Rs. 499 daily by liking videos. No interview, no experience needed. Pay Rs. 1,500 deposit to start. http://paytm-rewards.example.xyz/claim",english,job_internship,scam,social,11,train,synthetic
+156,Important: The project report must be submitted today by 5 PM; please send your part.,english,legitimate,legitimate,social,1088,train,synthetic
+157,Your SIM will be blocked; contact our executive on the number given and confirm your details. Click here: https://bit.ly/3xKycUp,english,support_impersonation,scam,sms,1040,train,synthetic
+158,TRAI: your mobile number will be disconnected today. Press 1 to speak to an officer and verify your Aadhaar.,english,govt_impersonation,scam,sms,30,test,synthetic
+159,"Notice: Your cashback of Rs. 499 is ready, accept the collect request to receive it. Click here: https://secure-bank-verify.example.net/auth",english,upi_payment,scam,social,1010,train,synthetic
+160,A new sign-in from Chennai was noticed; if it was you no action is needed. Please do it today.,english,legitimate,legitimate,social,1086,train,synthetic
+161,"Alert: Our AI trading bot earns fixed daily income, 100% profit guaranteed. Thank you. Tap the link: tinyurl.com/kyc-now",english,investment,scam,email,1024,test,synthetic
+162,"Alert: A shared file is waiting for you; open the link to view it. Regards, Team.",english,phishing,scam,sms,1064,train,synthetic
+163,"Unga account-ku Rs. 25,000 cashback kidaikum. UPI PIN anuppunga udane, illana cancel aagidum.",tamil_english,upi_payment,scam,sms,9,train,synthetic
+164,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 25,000 claim fee to receive your reward. https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,sms,19,train,synthetic
+165,"Income Tax Department: refund of Rs. 5,000 approved. Submit your bank details at https://secure-bank-verify.example.net/auth within 4 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+166,Ungal HDFC Bank statement ready aagiduchu. Official app-la login pannitu paarunga. OTP yaarukum share pannathinga.,tamil_english,legitimate,legitimate,sms,69,test,synthetic
+167,We noticed a policy violation on your page. Verify your account in 6 hours or it will be permanently disabled. http://paytm-rewards.example.xyz/claim,english,account_verification,scam,social,34,train,synthetic
+168,"Naan HDFC Bank customer care, unga account-la problem, remote app install pannunga. https://secure-bank-verify.example.net/auth",tamil_english,support_impersonation,scam,social,1041,test,synthetic
+169,"Hello, Reply with your OTP and card number to secure your account. Please do it today. Tap the link: https://secure-bank-verify.example.net/auth",english,credential_theft,scam,sms,1057,train,synthetic
+170,"Your mobile recharge of Rs. 2,999 was successful. Validity extended by 28 days. Thank you.",english,legitimate,legitimate,sms,62,train,synthetic
+171,"Naalaiku meeting 10 AM-ku irukku, time-ku vanga.",tamil_english,legitimate,legitimate,social,1090,val,synthetic
+172,Your statement is ready; never share your card details or OTP with anyone. Thank you. Details: https://www.example.com/help,english,legitimate,legitimate,email,1078,train,synthetic
+173,Important: Your statement is ready; never share your card details or OTP with anyone. Act immediately.,english,legitimate,legitimate,social,1078,train,synthetic
+174,"Payment of Rs. 1,500 failed. Scan this QR code and enter your UPI PIN to get your money back. http://192.0.2.15/login",english,upi_payment,scam,sms,6,train,synthetic
+175,"Hello, Your subscription payment was declined; update your billing information to avoid cancellation. Please do it today. Click here: http://sbi-kyc-update.example.com/verify",english,phishing,scam,email,1066,train,synthetic
+176,Cyber Police Notice: a case is registered against your Aadhaar. Pay a penalty of Rs. 499 immediately or face arrest.,english,govt_impersonation,scam,sms,28,train,synthetic
+177,Important: Technical support here: your device has a virus; download the support tool and give us access. Reply if you need help.,english,support_impersonation,scam,social,1036,train,synthetic
+178,"Hello, Your statement is ready; never share your card details or OTP with anyone. Visit https://www.example.com/help",english,legitimate,legitimate,sms,1078,train,synthetic
+179,Important: Assignment 3 is due on Friday; upload your submission on the college portal. Act immediately.,english,legitimate,legitimate,sms,1079,test,synthetic
+180,"Dear Divya, thank you for attending the interview at BrightPath Infotech. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+181,"Hi Divya, Project submission naalaiku, unga part anuppunga please. Thank you.",tamil_english,legitimate,legitimate,sms,1093,train,synthetic
+182,"Notice: You have a pending collect request of Rs. 2,999; approve it and enter your UPI PIN to receive money. Tap the link: http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,email,1007,test,synthetic
+183,"Deposit Rs. 25,000 into our forex platform and withdraw triple profit next week. Regards, Team. Visit http://sbi-kyc-update.example.com/verify",english,investment,scam,email,1026,test,synthetic
+184,"Ungal Axis Bank account block aagidum, KYC update pannunga udane: tinyurl.com/kyc-now",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+185,Your Axis Bank net banking will be deactivated. Complete KYC now or face legal action. http://192.0.2.15/login,english,bank_kyc,scam,sms,3,train,synthetic
+186,"Notice: Security check required: confirm your account ownership to continue using the service. Regards, Team.",english,account_verification,scam,email,1054,train,synthetic
+187,IT helpdesk: confirm your username and password to complete the mandatory security upgrade. Reply if you need help. Visit http://paytm-rewards.example.xyz/claim,english,credential_theft,scam,sms,1058,train,synthetic
+188,"A new sign-in from Chennai was noticed; if it was you no action is needed. Regards, Team. Details: https://www.example.com/help",english,legitimate,legitimate,social,1086,train,synthetic
+189,"Hi Priya, Deposit Rs. 5,000 into our forex platform and withdraw triple profit next week.",english,investment,scam,sms,1026,test,synthetic
+190,"Your recharge of Rs. 2,999 was successful and validity is extended by 28 days. Details: https://www.example.com/help",english,legitimate,legitimate,sms,1083,val,synthetic
+191,"Work from home velai, sambalam Rs. 1,500 daily. Registration kattanam Rs. 2,999 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+192,"Congratulations Arun! You are selected for work from home at TechNova Solutions. Pay a refundable registration fee of Rs. 25,000 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+193,"Alert: Rs. 25,000 invest pannunga, 12 naalil double panam guaranteed. Thank you.",tamil_english,investment,scam,email,1027,test,synthetic
+194,"Ungal parcel deliver aagala, inge click pannunga. Thank you. Visit https://bit.ly/3xKycUp",tamil_english,phishing,scam,sms,1069,test,synthetic
+195,"Part-time job: earn Rs. 2,999 daily by liking videos. No interview, no experience needed. Pay Rs. 499 deposit to start. http://192.0.2.15/login",english,job_internship,scam,social,11,train,synthetic
+196,"Your HDFC Bank credit of Rs. 25,000 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+197,Your mobile recharge of Rs. 499 was successful. Validity extended by 28 days. Thank you.,english,legitimate,legitimate,sms,62,train,synthetic
+198,Notice: Are we still on for dinner on Saturday; let me know what time works. Please do it today.,english,legitimate,legitimate,email,1076,train,synthetic
+199,"Notice: Our AI trading bot earns fixed daily income, 100% profit guaranteed. Regards, Team. Visit https://secure-bank-verify.example.net/auth",english,investment,scam,sms,1024,test,synthetic
+200,"Dear customer, your Canara Bank account will be blocked today. Update your KYC immediately: http://192.0.2.15/login",english,bank_kyc,scam,sms,0,train,synthetic
+201,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 25,000 security deposit and your bank details. http://192.0.2.15/login",english,job_internship,scam,sms,13,train,synthetic
+202,"Hi Arun, your offer letter from BrightPath Infotech is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+203,Ungal SBI account KYC update illana block aagidum. Act immediately. Tap the link: http://paytm-rewards.example.xyz/claim,tamil_english,bank_kyc,scam,social,1006,train,synthetic
+204,"Dear customer, Our crypto scheme will double your money with zero risk. Please do it today. Visit tinyurl.com/kyc-now",english,investment,scam,email,1022,train,synthetic
+205,"Dear customer, your ICICI Bank account will be blocked today. Update your KYC immediately: https://bit.ly/3xKycUp",english,bank_kyc,scam,sms,0,train,synthetic
+206,"Hi, I sent you Rs. 25,000 by mistake. Please approve the request on your UPI app and share the PIN so it gets reversed.",english,upi_payment,scam,social,7,val,synthetic
+207,"Hello, Your cab is arriving in 3 minutes; share the trip code only with the driver.",english,legitimate,legitimate,sms,1085,test,synthetic
+208,The team meeting has moved to 3 PM tomorrow; please update your calendar.,english,legitimate,legitimate,sms,1073,train,synthetic
+209,Reminder: the library book you borrowed is due tomorrow. Please return it to avoid a late fee as per college rules.,english,legitimate,legitimate,email,63,test,synthetic
+210,Notice: Mandatory re-KYC for your SBI net banking is required to avoid restrictions. Click here: https://bit.ly/3xKycUp,english,bank_kyc,scam,email,1004,train,synthetic
+211,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 2,999 security deposit and your bank details. http://192.0.2.15/login",english,job_internship,scam,sms,13,train,synthetic
+212,"Your payment of Rs. 2,999 to TechNova Solutions was received; this is an automated receipt.",english,legitimate,legitimate,social,1089,val,synthetic
+213,Important: Payment of Rs. 499 is stuck; confirm with your UPI PIN to reverse the transaction. Reply if you need help. Visit http://sbi-kyc-update.example.com/verify,english,upi_payment,scam,sms,1011,val,synthetic
+214,"Hi Karthik, your offer letter from CloudNest Pvt Ltd is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+215,Notice: Technical support here: your device has a virus; download the support tool and give us access.,english,support_impersonation,scam,social,1036,train,synthetic
+216,Important: Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew. Thank you. Visit https://www.example.com/help,english,legitimate,legitimate,email,1087,train,synthetic
+217,"Dear customer, Your resume is shortlisted by Zenith Global; pay the training kit charges of Rs. 25,000 to receive the offer letter.",english,job_internship,scam,social,1018,train,synthetic
+218,Congrats Priya on your new job! Let's catch up this weekend and celebrate.,english,legitimate,legitimate,social,55,train,synthetic
+219,The team meeting has moved to 3 PM tomorrow; please update your calendar. Details: https://www.example.org/track,english,legitimate,legitimate,sms,1073,train,synthetic
+220,Your Axis Bank net banking will be deactivated. Complete KYC now or face legal action. https://bit.ly/3xKycUp,english,bank_kyc,scam,sms,3,train,synthetic
+221,"Part-time job: earn Rs. 5,000 daily by liking videos. No interview, no experience needed. Pay Rs. 25,000 deposit to start. tinyurl.com/kyc-now",english,job_internship,scam,social,11,train,synthetic
+222,Axis Bank ALERT: KYC expired. Your account will be suspended within 24 hours. Click https://bit.ly/3xKycUp to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+223,Join our VIP stock tips group for sure-shot profits and guaranteed returns. Visit https://bit.ly/3xKycUp,english,investment,scam,social,1023,val,synthetic
+224,Ungal Canara Bank statement ready aagiduchu. Official app-la login pannitu paarunga. OTP yaarukum share pannathinga.,tamil_english,legitimate,legitimate,sms,69,test,synthetic
+225,"Dear customer, Winner announcement: claim your cash reward by paying a small processing fee. Thank you. Click here: http://192.0.2.15/login",english,prize_lottery,scam,email,1032,train,synthetic
+226,"Invest Rs. 1,500 today and get guaranteed 60% returns within 12 days.",english,investment,scam,social,1021,val,synthetic
+227,"Dear customer, Your courier is on hold at the depot; pay a re-delivery fee of Rs. 25,000 to avoid return. Thank you.",english,support_impersonation,scam,social,1038,val,synthetic
+228,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 5,000 to start today. http://paytm-rewards.example.xyz/claim",english,investment,scam,social,16,train,synthetic
+229,Your SBI credit of Rs. 499 was received. Available balance updated. Thank you for banking with us.,english,legitimate,legitimate,sms,56,val,synthetic
+230,"Hi Divya, your offer letter from TechNova Solutions is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+231,Your HDFC Bank net banking will be deactivated. Complete KYC now or face legal action. http://sbi-kyc-update.example.com/verify,english,bank_kyc,scam,sms,3,train,synthetic
+232,"Hi, I sent you Rs. 5,000 by mistake. Please approve the request on your UPI app and share the PIN so it gets reversed.",english,upi_payment,scam,social,7,val,synthetic
+233,"Hi Arun, Security check required: confirm your account ownership to continue using the service. Reply if you need help.",english,account_verification,scam,social,1054,train,synthetic
+234,"Hi Arun, To receive Rs. 5,000 in your wallet, authorise the payment request now. http://paytm-rewards.example.xyz/claim",english,upi_payment,scam,email,1012,train,synthetic
+235,Notice: Your SIM will be blocked; contact our executive on the number given and confirm your details. Please do it today. http://sbi-kyc-update.example.com/verify,english,support_impersonation,scam,social,1040,train,synthetic
+236,"Hi Suresh, Provide your login credentials and the code sent to your phone for verification. Reply if you need help. https://secure-bank-verify.example.net/auth",english,credential_theft,scam,sms,1061,test,synthetic
+237,"Income Tax Department: refund of Rs. 5,000 approved. Submit your bank details at http://192.0.2.15/login within 4 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+238,"Hello, Mandatory re-KYC for your ICICI Bank net banking is required to avoid restrictions. Click here: tinyurl.com/kyc-now",english,bank_kyc,scam,email,1004,train,synthetic
+239,"Part-time job: earn Rs. 1,500 daily by liking videos. No interview, no experience needed. Pay Rs. 499 deposit to start. http://192.0.2.15/login",english,job_internship,scam,social,11,train,synthetic
+240,Your mailbox is full and will be deactivated unless you verify your account. Reply if you need help. http://192.0.2.15/login,english,account_verification,scam,sms,1050,train,synthetic
+241,Ungal SBI account KYC update illana block aagidum. Act immediately. Visit http://192.0.2.15/login,tamil_english,bank_kyc,scam,email,1006,train,synthetic
+242,"Hello, Your mobile number won the mega bumper draw, contact our agent to collect the prize. Please do it today. Visit http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,sms,1033,test,synthetic
+243,"Customs has seized your parcel; pay a clearance fee of Rs. 25,000 to avoid legal action. Act immediately. Tap the link: http://paytm-rewards.example.xyz/claim",english,govt_impersonation,scam,social,1044,train,synthetic
+244,Your electricity bill of Rs. 499 is generated; pay it in the official app before the due date.,english,legitimate,legitimate,social,1074,val,synthetic
+245,Your password expires today. Log in at tinyurl.com/kyc-now and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+246,"Hello, Your SIM will be blocked; contact our executive on the number given and confirm your details. Visit http://192.0.2.15/login",english,support_impersonation,scam,sms,1040,train,synthetic
+247,"Customs Department: your parcel contains illegal items. Pay Rs. 5,000 clearance fee at http://paytm-rewards.example.xyz/claim to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+248,Security notice: unusual sign-in detected. Verify your account within 2 hours or it will be closed. tinyurl.com/kyc-now,english,account_verification,scam,email,31,test,synthetic
+249,Your password expires today. Log in at https://secure-bank-verify.example.net/auth and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+250,"Hello, Ungal password matrum OTP udane anuppunga, account lock aagidum. Regards, Team.",tamil_english,credential_theft,scam,sms,1062,test,synthetic
+251,"Alert: Ungal password matrum OTP udane anuppunga, account lock aagidum.",tamil_english,credential_theft,scam,sms,1062,test,synthetic
+252,Congrats Arun on your new job! Let's catch up this weekend and celebrate.,english,legitimate,legitimate,social,55,train,synthetic
+253,Important: Are we still on for dinner on Saturday; let me know what time works. Reply if you need help.,english,legitimate,legitimate,sms,1076,train,synthetic
+254,"Hello, You are selected for a work from home job at BrightPath Infotech; pay a registration fee of Rs. 2,999 to confirm. Reply if you need help. Click here: https://secure-bank-verify.example.net/auth",english,job_internship,scam,social,1014,val,synthetic
+255,"Important: Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 499 to release the prize. Please do it today. Click here: tinyurl.com/kyc-now",english,prize_lottery,scam,social,1030,val,synthetic
+256,Alert: Failure to complete KYC will freeze your Canara Bank savings account. Act immediately. Visit http://sbi-kyc-update.example.com/verify,english,bank_kyc,scam,sms,1002,test,synthetic
+257,Your account has been temporarily limited. Confirm your identity now to restore access: https://bit.ly/3xKycUp,english,account_verification,scam,sms,33,train,synthetic
+258,"Rs. 2,999 was debited from your SBI account ending 4521; if this was not you, call the number on your card. Act immediately. Details: https://www.example.com/help",english,legitimate,legitimate,sms,1071,train,synthetic
+259,Notice: Ungal HDFC Bank account KYC update illana block aagidum. Reply if you need help. Visit http://sbi-kyc-update.example.com/verify,tamil_english,bank_kyc,scam,email,1006,train,synthetic
+260,"Hi Divya, Ungal password matrum OTP udane anuppunga, account lock aagidum.",tamil_english,credential_theft,scam,sms,1062,test,synthetic
+261,"Alert: Your cashback of Rs. 5,000 is ready, accept the collect request to receive it. Tap the link: http://192.0.2.15/login",english,upi_payment,scam,social,1010,train,synthetic
+262,"Hi Karthik, To avoid deactivation please send your net banking ID and password. Please do it today. Tap the link: http://192.0.2.15/login",english,credential_theft,scam,sms,1060,train,synthetic
+263,"Dear customer, Your PAN is suspended by the government; update details immediately to avoid a fine. Please do it today. Click here: http://sbi-kyc-update.example.com/verify",english,govt_impersonation,scam,social,1047,val,synthetic
+264,"Your payment of Rs. 5,000 to TechNova Solutions was received; this is an automated receipt. Details: https://www.example.org/track",english,legitimate,legitimate,email,1089,val,synthetic
+265,"Your OTP is 482913. It is valid for 10 minutes. Do not share this OTP with anyone, including bank staff.",english,legitimate,legitimate,sms,43,train,synthetic
+266,"Dear customer, Unusual sign-in detected on your account; verify your identity or it will be closed. Click here: http://192.0.2.15/login",english,account_verification,scam,sms,1049,val,synthetic
+267,"Dear customer, your SBI account will be blocked today. Update your KYC immediately: tinyurl.com/kyc-now",english,bank_kyc,scam,sms,0,train,synthetic
+268,"WINNER! Your number was selected in the KBC lottery. Contact our agent and pay Rs. 25,000 tax to release the prize.",english,prize_lottery,scam,sms,21,val,synthetic
+269,"Dear customer, Your train ticket is confirmed for coach S4; carry a valid ID proof. Visit https://www.example.com/help",english,legitimate,legitimate,sms,1080,test,synthetic
+270,"Notice: Your account has been temporarily limited; confirm your identity to restore access. Regards, Team. http://paytm-rewards.example.xyz/claim",english,account_verification,scam,email,1051,test,synthetic
+271,"Hello, Deposit Rs. 2,999 into our forex platform and withdraw triple profit next week. Reply if you need help.",english,investment,scam,sms,1026,test,synthetic
+272,"Notice: Your card is locked; share your CVV and OTP to unlock it. Regards, Team.",english,credential_theft,scam,email,1059,val,synthetic
+273,"Important: Limited slots in our pre-launch fund offering risk-free monthly income. Regards, Team. Tap the link: https://secure-bank-verify.example.net/auth",english,investment,scam,sms,1025,train,synthetic
+274,"Important: Naalaiku meeting 10 AM-ku irukku, time-ku vanga. Reply if you need help.",tamil_english,legitimate,legitimate,sms,1090,val,synthetic
+275,"Notice: This is SBI customer care, we detected suspicious activity; install a remote access app so we can fix it. Reply if you need help. Click here: tinyurl.com/kyc-now",english,support_impersonation,scam,email,1035,test,synthetic
+276,"Hi Karthik, Your recharge of Rs. 25,000 was successful and validity is extended by 28 days. Details: https://www.example.org/track",english,legitimate,legitimate,sms,1083,val,synthetic
+277,"Alert: Your order of Rs. 25,000 will be charged; if this was not you call our helpline and share the OTP. Regards, Team.",english,support_impersonation,scam,social,1037,test,synthetic
+278,"Hi Arun, Your PAN is suspended by the government; update details immediately to avoid a fine. Thank you. http://paytm-rewards.example.xyz/claim",english,govt_impersonation,scam,sms,1047,val,synthetic
+279,"Notice: Rs. 2,999 invest pannunga, 12 naalil double panam guaranteed. Thank you.",tamil_english,investment,scam,sms,1027,test,synthetic
+280,"Hello, A new sign-in from Chennai was noticed; if it was you no action is needed. Reply if you need help. Details: https://www.example.com/help",english,legitimate,legitimate,social,1086,train,synthetic
+281,"Alert: Our support agent will refund Rs. 2,999; share the screen code so we can process it.",english,support_impersonation,scam,sms,1039,train,synthetic
+282,"Hi Divya, Assignment 3 is due on Friday; upload your submission on the college portal. Regards, Team.",english,legitimate,legitimate,social,1079,test,synthetic
+283,Your account has been temporarily limited. Confirm your identity now to restore access: http://sbi-kyc-update.example.com/verify,english,account_verification,scam,sms,33,train,synthetic
+284,Mandatory re-KYC for your ICICI Bank net banking is required to avoid restrictions. Reply if you need help.,english,bank_kyc,scam,social,1004,train,synthetic
+285,"Notice: Your account has been temporarily limited; confirm your identity to restore access. Regards, Team. Visit http://paytm-rewards.example.xyz/claim",english,account_verification,scam,sms,1051,test,synthetic
+286,Security notice: unusual sign-in detected. Verify your account within 24 hours or it will be closed. tinyurl.com/kyc-now,english,account_verification,scam,email,31,test,synthetic
+287,"Part-time job: earn Rs. 499 daily by liking videos. No interview, no experience needed. Pay Rs. 2,999 deposit to start. http://paytm-rewards.example.xyz/claim",english,job_internship,scam,social,11,train,synthetic
+288,"You are our lucky winner of a free smartphone. Confirm your address and pay the delivery charge of Rs. 2,999 today only.",english,prize_lottery,scam,email,20,train,synthetic
+289,"Hi Priya, the team meeting is moved to 3 PM tomorrow. Please update your calendar. Regards, Priya",english,legitimate,legitimate,email,46,train,synthetic
+290,"Notice: Your cashback of Rs. 499 is ready, accept the collect request to receive it. Thank you. Click here: http://192.0.2.15/login",english,upi_payment,scam,sms,1010,train,synthetic
+291,"Hi Arun, Ungal password matrum OTP udane anuppunga, account lock aagidum. Please do it today. Click here: https://bit.ly/3xKycUp",tamil_english,credential_theft,scam,social,1062,test,synthetic
+292,"You have a pending collect request of Rs. 2,999; approve it and enter your UPI PIN to receive money. Please do it today. tinyurl.com/kyc-now",english,upi_payment,scam,social,1007,test,synthetic
+293,"Hey Priya, are we still on for dinner on Saturday? Let me know what time works for you.",english,legitimate,legitimate,social,49,test,synthetic
+294,"Earn passive income of Rs. 1,500 every day with our AI trading bot. 100% profit guaranteed. Register: tinyurl.com/kyc-now",english,investment,scam,sms,18,train,synthetic
+295,"Hello, Your electricity bill of Rs. 2,999 is generated; pay it in the official app before the due date. Reply if you need help. Details: https://www.example.com/help",english,legitimate,legitimate,social,1074,val,synthetic
+296,"You have won a gift voucher worth Rs. 25,000; confirm your card details to receive it. Click here: tinyurl.com/kyc-now",english,prize_lottery,scam,social,1031,train,synthetic
+297,"Hi Arun, IT helpdesk: confirm your username and password to complete the mandatory security upgrade.",english,credential_theft,scam,email,1058,train,synthetic
+298,"Dear customer, your HDFC Bank account will be blocked today. Update your KYC immediately: http://paytm-rewards.example.xyz/claim",english,bank_kyc,scam,sms,0,train,synthetic
+299,"Dear customer, Your PAN is suspended by the government; update details immediately to avoid a fine. Act immediately. https://bit.ly/3xKycUp",english,govt_impersonation,scam,email,1047,val,synthetic
+300,"Important: Your mobile number won the mega bumper draw, contact our agent to collect the prize. Thank you.",english,prize_lottery,scam,email,1033,test,synthetic
+301,"Dear Suresh, thank you for attending the interview at BrightPath Infotech. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+302,"Dear customer, Urgent hiring for data entry with high salary; send a security deposit of Rs. 25,000 to start. Click here: http://sbi-kyc-update.example.com/verify",english,job_internship,scam,sms,1017,test,synthetic
+303,"Hello, Naan SBI customer care, unga account-la problem, remote app install pannunga.",tamil_english,support_impersonation,scam,email,1041,test,synthetic
+304,"Dear customer, Your internship offer from TechNova Solutions is ready after you pay a refundable deposit of Rs. 5,000. Reply if you need help. Visit http://192.0.2.15/login",english,job_internship,scam,email,1015,train,synthetic
+305,"Amazon Support: your order of Rs. 25,000 will be charged. If this was not you, call our helpline immediately and share the OTP.",english,support_impersonation,scam,email,24,train,synthetic
+306,Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 499 to start today. http://192.0.2.15/login,english,investment,scam,social,16,train,synthetic
+307,"Hi Karthik, your offer letter from TechNova Solutions is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+308,"Dear Divya, your SBI fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+309,"Dear customer, Your statement is ready; never share your card details or OTP with anyone.",english,legitimate,legitimate,social,1078,train,synthetic
+310,"Dear candidate, your internship offer at TechNova Solutions is ready. Transfer a processing fee of Rs. 1,500 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+311,"Dear customer, Your library book is due tomorrow; return it to avoid the late fee as per college rules. Reply if you need help.",english,legitimate,legitimate,sms,1084,val,synthetic
+312,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 2,999 at http://paytm-rewards.example.xyz/claim to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+313,Package could not be delivered. Click https://bit.ly/3xKycUp to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+314,"Hello, Thanks for attending the interview at TechNova Solutions; results will be shared via the careers portal and no fees are charged at any stage. Act immediately.",english,legitimate,legitimate,social,1077,val,synthetic
+315,"Unga account-ku Rs. 5,000 cashback kidaikum. UPI PIN anuppunga udane, illana cancel aagidum.",tamil_english,upi_payment,scam,sms,9,train,synthetic
+316,"Hi Suresh, the team meeting is moved to 3 PM tomorrow. Please update your calendar. Regards, Priya",english,legitimate,legitimate,email,46,train,synthetic
+317,Earn passive income of Rs. 499 every day with our AI trading bot. 100% profit guaranteed. Register: http://sbi-kyc-update.example.com/verify,english,investment,scam,sms,18,train,synthetic
+318,"Hey Arun, are we still on for dinner on Saturday? Let me know what time works for you.",english,legitimate,legitimate,social,49,test,synthetic
+319,"Ungal parcel deliver aagala, inge click pannunga.",tamil_english,phishing,scam,social,1069,test,synthetic
+320,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 2,999 claim fee to receive your reward. https://bit.ly/3xKycUp",english,prize_lottery,scam,sms,19,train,synthetic
+321,Earn passive income of Rs. 499 every day with our AI trading bot. 100% profit guaranteed. Register: http://paytm-rewards.example.xyz/claim,english,investment,scam,sms,18,train,synthetic
+322,Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 499 fee anuppunga: http://sbi-kyc-update.example.com/verify,tamil_english,prize_lottery,scam,sms,22,train,synthetic
+323,Your Axis Bank net banking will be deactivated. Complete KYC now or face legal action. https://secure-bank-verify.example.net/auth,english,bank_kyc,scam,sms,3,train,synthetic
+324,"Notice: Our AI trading bot earns fixed daily income, 100% profit guaranteed. Reply if you need help. http://paytm-rewards.example.xyz/claim",english,investment,scam,social,1024,test,synthetic
+325,"Income Tax Department: refund of Rs. 25,000 approved. Submit your bank details at tinyurl.com/kyc-now within 24 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+326,"Hello, Join our VIP stock tips group for sure-shot profits and guaranteed returns. Tap the link: https://bit.ly/3xKycUp",english,investment,scam,sms,1023,val,synthetic
+327,Important: Technical support here: your device has a virus; download the support tool and give us access. Visit tinyurl.com/kyc-now,english,support_impersonation,scam,sms,1036,train,synthetic
+328,This is Canara Bank customer care. Your account has suspicious activity. Install AnyDesk and share the code so we can secure it.,english,support_impersonation,scam,sms,23,train,synthetic
+329,"Scan the QR code below and enter your PIN to get your refund of Rs. 5,000. Regards, Team. Visit tinyurl.com/kyc-now",english,upi_payment,scam,email,1008,train,synthetic
+330,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 5,000 claim fee to receive your reward. http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,sms,19,train,synthetic
+331,"Amazon Support: your order of Rs. 5,000 will be charged. If this was not you, call our helpline immediately and share the OTP.",english,support_impersonation,scam,email,24,train,synthetic
+332,"Dear customer, your SBI account will be blocked today. Update your KYC immediately: https://bit.ly/3xKycUp",english,bank_kyc,scam,sms,0,train,synthetic
+333,"Hello, Unusual sign-in detected on your account; verify your identity or it will be closed. Reply if you need help. Click here: https://bit.ly/3xKycUp",english,account_verification,scam,sms,1049,val,synthetic
+334,Ungal Canara Bank account KYC update illana block aagidum. Visit http://paytm-rewards.example.xyz/claim,tamil_english,bank_kyc,scam,email,1006,train,synthetic
+335,"Congratulations Priya! You are selected for work from home at Zenith Global. Pay a refundable registration fee of Rs. 2,999 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+336,"The team meeting has moved to 3 PM tomorrow; please update your calendar. Regards, Team. Visit https://www.example.org/track",english,legitimate,legitimate,sms,1073,train,synthetic
+337,"Hello, Your offer letter from TechNova Solutions is attached; sign and return it by Friday, no payment is required. Please do it today. Details: https://www.example.com/help",english,legitimate,legitimate,email,1082,train,synthetic
+338,We noticed a policy violation on your page. Verify your account in 2 hours or it will be permanently disabled. https://bit.ly/3xKycUp,english,account_verification,scam,social,34,train,synthetic
+339,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 2,999 claim fee to receive your reward. http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,sms,19,train,synthetic
+340,Provide your login credentials and the code sent to your phone for verification. Reply if you need help. http://192.0.2.15/login,english,credential_theft,scam,email,1061,test,synthetic
+341,We noticed a policy violation on your page. Verify your account in 12 hours or it will be permanently disabled. https://secure-bank-verify.example.net/auth,english,account_verification,scam,social,34,train,synthetic
+342,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: https://bit.ly/3xKycUp",english,account_verification,scam,email,32,train,synthetic
+343,"Naan SBI customer care, unga account-la problem, remote app install pannunga. Act immediately. Click here: http://192.0.2.15/login",tamil_english,support_impersonation,scam,email,1041,test,synthetic
+344,"Limited slots in our pre-launch fund offering risk-free monthly income. Regards, Team. Tap the link: http://sbi-kyc-update.example.com/verify",english,investment,scam,email,1025,train,synthetic
+345,"Earn passive income of Rs. 5,000 every day with our AI trading bot. 100% profit guaranteed. Register: https://bit.ly/3xKycUp",english,investment,scam,sms,18,train,synthetic
+346,"Hi Karthik, Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga.",tamil_english,legitimate,legitimate,social,1092,test,synthetic
+347,"Your payment of Rs. 1,500 to TechNova Solutions was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+348,"Hello, I am from technical support. Your device has a virus. Download the support app at http://paytm-rewards.example.xyz/claim and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+349,"You have received a collect request of Rs. 1,500. Approve it and enter your UPI PIN to receive the refund.",english,upi_payment,scam,sms,5,train,synthetic
+350,"Dear customer, Winner announcement: claim your cash reward by paying a small processing fee. Regards, Team.",english,prize_lottery,scam,social,1032,train,synthetic
+351,"Work from home velai, sambalam Rs. 25,000 daily. Registration kattanam Rs. 499 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+352,"Important: Your internship offer from TechNova Solutions is ready after you pay a refundable deposit of Rs. 5,000. Act immediately. http://paytm-rewards.example.xyz/claim",english,job_internship,scam,sms,1015,train,synthetic
+353,"Hi, I sent you Rs. 1,500 by mistake. Please approve the request on your UPI app and share the PIN so it gets reversed.",english,upi_payment,scam,social,7,val,synthetic
+354,"Your payment of Rs. 25,000 to BrightPath Infotech was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+355,"Our support agent will refund Rs. 5,000; share the screen code so we can process it.",english,support_impersonation,scam,email,1039,train,synthetic
+356,"Alert: Our AI trading bot earns fixed daily income, 100% profit guaranteed. Regards, Team.",english,investment,scam,social,1024,test,synthetic
+357,Your ICICI Bank net banking will be deactivated. Complete KYC now or face legal action. tinyurl.com/kyc-now,english,bank_kyc,scam,sms,3,train,synthetic
+358,"Dear customer, Earn Rs. 499 daily by liking videos, no interview needed, joining fee applies. Thank you. Click here: http://192.0.2.15/login",english,job_internship,scam,social,1016,train,synthetic
+359,"Alert: Your offer letter from TechNova Solutions is attached; sign and return it by Friday, no payment is required.",english,legitimate,legitimate,sms,1082,train,synthetic
+360,"Important: Your resume is shortlisted by Zenith Global; pay the training kit charges of Rs. 5,000 to receive the offer letter. Thank you. Tap the link: https://secure-bank-verify.example.net/auth",english,job_internship,scam,sms,1018,train,synthetic
+361,"Your HDFC Bank OTP for the online purchase of Rs. 5,000 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+362,"Payment of Rs. 25,000 failed. Scan this QR code and enter your UPI PIN to get your money back. http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,sms,6,train,synthetic
+363,"Hello, Police notice: unga Aadhaar-la case irukku, Rs. 5,000 penalty udane kattunga. Please do it today.",tamil_english,govt_impersonation,scam,social,1048,train,synthetic
+364,"Alert: Your password was changed successfully; if this was not you, reset it from the official website. Regards, Team.",english,legitimate,legitimate,email,1081,train,synthetic
+365,"Important: Your recharge of Rs. 1,500 was successful and validity is extended by 28 days.",english,legitimate,legitimate,sms,1083,val,synthetic
+366,A shared file is waiting for you. Kindly click the link below to open it. https://secure-bank-verify.example.net/auth,english,phishing,scam,email,40,test,synthetic
+367,"Hi Karthik, Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 1,500. Act immediately. Visit tinyurl.com/kyc-now",english,job_internship,scam,email,1019,test,synthetic
+368,"Hi Karthik, Your library book is due tomorrow; return it to avoid the late fee as per college rules. Act immediately.",english,legitimate,legitimate,social,1084,val,synthetic
+369,"Important: Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga. Act immediately. Details: https://www.example.com/help",tamil_english,legitimate,legitimate,sms,1092,test,synthetic
+370,"Hi Divya, Your password was changed successfully; if this was not you, reset it from the official website. Visit https://www.example.org/track",english,legitimate,legitimate,social,1081,train,synthetic
+371,We regret to inform you that your Canara Bank account has been restricted due to incomplete KYC. Kindly confirm your details at http://paytm-rewards.example.xyz/claim to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+372,"Dear customer, Unusual sign-in detected on your account; verify your identity or it will be closed. Act immediately. Click here: http://paytm-rewards.example.xyz/claim",english,account_verification,scam,sms,1049,val,synthetic
+373,"Hi Suresh, Limited slots in our pre-launch fund offering risk-free monthly income. Thank you.",english,investment,scam,sms,1025,train,synthetic
+374,"Machan, project submission naalaiku, unga part anuppunga please. Thanks da.",tamil_english,legitimate,legitimate,social,70,train,synthetic
+375,"Hey, urgent: the project report needs to be submitted today by 5 PM. Can you send me your part?",english,legitimate,legitimate,social,66,train,synthetic
+376,"Part-time job: earn Rs. 1,500 daily by liking videos. No interview, no experience needed. Pay Rs. 1,500 deposit to start. tinyurl.com/kyc-now",english,job_internship,scam,social,11,train,synthetic
+377,"Cashback of Rs. 1,500 is waiting. Accept the collect request in your payment app within 6 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+378,Important: Ungal account verify pannunga illana 12 hours-la close aagidum.,tamil_english,account_verification,scam,sms,1055,test,synthetic
+379,Package could not be delivered. Click tinyurl.com/kyc-now to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+380,"ICICI Bank: Rs. 1,250 debited from A/c XX4521 on 03-Oct. If not you, call the number on the back of your card.",english,legitimate,legitimate,sms,44,test,synthetic
+381,"Your payment of Rs. 499 to BrightPath Infotech was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+382,"Your mobile recharge of Rs. 5,000 was successful. Validity extended by 28 days. Thank you.",english,legitimate,legitimate,sms,62,train,synthetic
+383,Your ICICI Bank debit card will be deactivated because KYC is pending.,english,bank_kyc,scam,sms,1003,val,synthetic
+384,Your subscription payment was declined. Update your billing information immediately at https://bit.ly/3xKycUp to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+385,Axis Bank ALERT: KYC expired. Your account will be suspended within 4 hours. Click http://paytm-rewards.example.xyz/claim to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+386,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 5,000 at tinyurl.com/kyc-now to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+387,"Security alert: a new sign-in to your account from Chennai. If this was you, no action is needed. If not, change your password from the official app.",english,legitimate,legitimate,email,67,val,synthetic
+388,"Scan the QR code below and enter your PIN to get your refund of Rs. 25,000. Regards, Team.",english,upi_payment,scam,social,1008,train,synthetic
+389,"Hello, Your mobile number won the mega bumper draw, contact our agent to collect the prize. Act immediately. Tap the link: https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,email,1033,test,synthetic
+390,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: http://paytm-rewards.example.xyz/claim",english,account_verification,scam,email,32,train,synthetic
+391,"Hi Arun, Deposit Rs. 2,999 into our forex platform and withdraw triple profit next week. Regards, Team. http://sbi-kyc-update.example.com/verify",english,investment,scam,social,1026,test,synthetic
+392,Reply with your OTP and card number to secure your account. https://bit.ly/3xKycUp,english,credential_theft,scam,sms,1057,train,synthetic
+393,"Alert: Your subscription payment was declined; update your billing information to avoid cancellation. Regards, Team. Click here: https://bit.ly/3xKycUp",english,phishing,scam,sms,1066,train,synthetic
+394,"Hello, Unga order dispatch aagiduchu, naalaiku delivery varum. Visit https://www.example.com/help",tamil_english,legitimate,legitimate,sms,1091,train,synthetic
+395,"Important: Congratulations, you have won a lucky draw prize; pay Rs. 2,999 to claim it. Regards, Team. http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,social,1028,train,synthetic
+396,"Hello, Ungal password matrum OTP udane anuppunga, account lock aagidum. Act immediately. Click here: tinyurl.com/kyc-now",tamil_english,credential_theft,scam,sms,1062,test,synthetic
+397,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 25,000 at tinyurl.com/kyc-now to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+398,"Dear customer, Naan ICICI Bank customer care, unga account-la problem, remote app install pannunga. Please do it today. http://sbi-kyc-update.example.com/verify",tamil_english,support_impersonation,scam,sms,1041,test,synthetic
+399,"Work from home velai kidaikum, registration kattanam Rs. 5,000 anuppunga. Please do it today. Visit https://bit.ly/3xKycUp",tamil_english,job_internship,scam,sms,1020,train,synthetic
+400,"Hello, Your SIM will be blocked; contact our executive on the number given and confirm your details. Please do it today.",english,support_impersonation,scam,social,1040,train,synthetic
+401,"Notice: Unga Rs. 5,000 refund-ku UPI PIN anuppunga, collect request approve pannunga. Tap the link: tinyurl.com/kyc-now",tamil_english,upi_payment,scam,email,1013,train,synthetic
+402,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 25,000 fee anuppunga: tinyurl.com/kyc-now",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+403,IT Helpdesk: confirm your username and password at tinyurl.com/kyc-now to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+404,"Notice: Technical support here: your device has a virus; download the support tool and give us access. Regards, Team. Click here: tinyurl.com/kyc-now",english,support_impersonation,scam,social,1036,train,synthetic
+405,Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Please do it today.,english,legitimate,legitimate,social,1075,train,synthetic
+406,"Dear Arun, your Axis Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+407,"Congratulations Divya! You are selected for work from home at Zenith Global. Pay a refundable registration fee of Rs. 25,000 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+408,"Guaranteed 60% returns in 12 days! Invest Rs. 5,000 in our crypto scheme and double your money. tinyurl.com/kyc-now",english,investment,scam,social,15,train,synthetic
+409,"Hi Divya, Limited slots in our pre-launch fund offering risk-free monthly income.",english,investment,scam,email,1025,train,synthetic
+410,"Hi Karthik, Our AI trading bot earns fixed daily income, 100% profit guaranteed. Regards, Team. Visit https://bit.ly/3xKycUp",english,investment,scam,email,1024,test,synthetic
+411,"Hello, Your Canara Bank account is on hold until PAN and Aadhaar are re-verified. http://192.0.2.15/login",english,bank_kyc,scam,email,1001,train,synthetic
+412,"Work from home velai, sambalam Rs. 25,000 daily. Registration kattanam Rs. 2,999 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+413,"Guaranteed 240% returns in 4 days! Invest Rs. 2,999 in our crypto scheme and double your money. https://bit.ly/3xKycUp",english,investment,scam,social,15,train,synthetic
+414,Important: Your Canara Bank mobile banking access ends today unless you update your PAN card. Reply if you need help. Visit https://secure-bank-verify.example.net/auth,english,bank_kyc,scam,social,1005,train,synthetic
+415,"Hello, Mandatory re-KYC for your Axis Bank net banking is required to avoid restrictions. Please do it today. Tap the link: http://192.0.2.15/login",english,bank_kyc,scam,sms,1004,train,synthetic
+416,"Dear candidate, your internship offer at BrightPath Infotech is ready. Transfer a processing fee of Rs. 5,000 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+417,"Hello, Limited slots in our pre-launch fund offering risk-free monthly income. Please do it today. https://bit.ly/3xKycUp",english,investment,scam,email,1025,train,synthetic
+418,"Dear candidate, your internship offer at Zenith Global is ready. Transfer a processing fee of Rs. 1,500 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+419,"Your Canara Bank OTP for the online purchase of Rs. 5,000 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+420,"Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga. Thank you. Details: https://www.example.org/track",tamil_english,legitimate,legitimate,social,1092,test,synthetic
+421,"Hello, Unga order dispatch aagiduchu, naalaiku delivery varum. Please do it today.",tamil_english,legitimate,legitimate,sms,1091,train,synthetic
+422,"Important: Your recharge of Rs. 25,000 was successful and validity is extended by 28 days. Visit https://www.example.com/help",english,legitimate,legitimate,email,1083,val,synthetic
+423,Your subscription payment was declined; update your billing information to avoid cancellation. Click here: http://sbi-kyc-update.example.com/verify,english,phishing,scam,sms,1066,train,synthetic
+424,"Dear customer, Ungal account verify pannunga illana 12 hours-la close aagidum. Please do it today. Visit https://bit.ly/3xKycUp",tamil_english,account_verification,scam,sms,1055,test,synthetic
+425,"Hi Arun, Our support agent will refund Rs. 5,000; share the screen code so we can process it. Tap the link: http://192.0.2.15/login",english,support_impersonation,scam,sms,1039,train,synthetic
+426,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 1,500 security deposit and your bank details. https://bit.ly/3xKycUp",english,job_internship,scam,sms,13,train,synthetic
+427,ICICI Bank ALERT: KYC expired. Your account will be suspended within 24 hours. Click http://paytm-rewards.example.xyz/claim to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+428,"Hello, Failure to complete KYC will freeze your SBI savings account.",english,bank_kyc,scam,sms,1002,test,synthetic
+429,"Hello, Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Reply if you need help. Visit https://www.example.com/help",english,legitimate,legitimate,email,1075,train,synthetic
+430,You have received a collect request of Rs. 499. Approve it and enter your UPI PIN to receive the refund.,english,upi_payment,scam,sms,5,train,synthetic
+431,"You have received a collect request of Rs. 2,999. Approve it and enter your UPI PIN to receive the refund.",english,upi_payment,scam,sms,5,train,synthetic
+432,"Hi Suresh, naalaiku meeting 10 AM-ku irukku. Please time-ku vanga. Thanks.",tamil_english,legitimate,legitimate,sms,57,train,synthetic
+433,This is SBI customer care. Your account has suspicious activity. Install AnyDesk and share the code so we can secure it.,english,support_impersonation,scam,sms,23,train,synthetic
+434,"Hi Divya, I sent Rs. 2,999 to you by mistake, please accept the request on your UPI app and send the PIN. Reply if you need help. Visit https://bit.ly/3xKycUp",english,upi_payment,scam,social,1009,test,synthetic
+435,"Hello, Your electricity bill of Rs. 5,000 is generated; pay it in the official app before the due date.",english,legitimate,legitimate,email,1074,val,synthetic
+436,"Dear customer, Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 5,000 to release the prize. Tap the link: http://192.0.2.15/login",english,prize_lottery,scam,email,1030,val,synthetic
+437,Ungal account verify pannunga illana 6 hours-la close aagidum. Click here: tinyurl.com/kyc-now,tamil_english,account_verification,scam,sms,1055,test,synthetic
+438,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 25,000 security deposit and your bank details. https://secure-bank-verify.example.net/auth",english,job_internship,scam,sms,13,train,synthetic
+439,"Dear customer, You have a pending collect request of Rs. 5,000; approve it and enter your UPI PIN to receive money.",english,upi_payment,scam,email,1007,test,synthetic
+440,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 1,500 at http://sbi-kyc-update.example.com/verify to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+441,"Hi Arun, Your HDFC Bank mobile banking access ends today unless you update your PAN card. Visit https://bit.ly/3xKycUp",english,bank_kyc,scam,social,1005,train,synthetic
+442,"Alert: Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga. Act immediately.",tamil_english,legitimate,legitimate,sms,1092,test,synthetic
+443,Alert: Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Details: https://www.example.com/help,english,legitimate,legitimate,social,1075,train,synthetic
+444,"Hello, Income Tax Department: your refund of Rs. 25,000 is approved; submit bank details to receive it. Tap the link: https://bit.ly/3xKycUp",english,govt_impersonation,scam,social,1042,train,synthetic
+445,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 5,000 at https://secure-bank-verify.example.net/auth to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+446,Alert: Your SBI account is on hold until PAN and Aadhaar are re-verified. Act immediately. https://bit.ly/3xKycUp,english,bank_kyc,scam,sms,1001,train,synthetic
+447,"Hello, Your subscription account needs re-verification to avoid suspension. Thank you. Tap the link: https://bit.ly/3xKycUp",english,account_verification,scam,social,1053,val,synthetic
+448,Provide your login credentials and the code sent to your phone for verification. Reply if you need help.,english,credential_theft,scam,email,1061,test,synthetic
+449,"IT helpdesk: confirm your username and password to complete the mandatory security upgrade. Regards, Team. Tap the link: https://secure-bank-verify.example.net/auth",english,credential_theft,scam,social,1058,train,synthetic
+450,Ungal appointment Monday 10 AM-ku confirm aagiduchu. Reschedule panna clinic-ku call pannunga.,tamil_english,legitimate,legitimate,sms,71,test,synthetic
+451,Please review the attached invoice and sign in to view the document: tinyurl.com/kyc-now,english,phishing,scam,email,39,val,synthetic
+452,"Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 5,000. Act immediately.",english,job_internship,scam,sms,1019,test,synthetic
+453,Ungal order dispatch aagiduchu. Naalaiku delivery varum. Thank you.,tamil_english,legitimate,legitimate,sms,59,train,synthetic
+454,"Important: Your mobile number won the mega bumper draw, contact our agent to collect the prize. tinyurl.com/kyc-now",english,prize_lottery,scam,social,1033,test,synthetic
+455,Axis Bank ALERT: KYC expired. Your account will be suspended within 2 hours. Click https://bit.ly/3xKycUp to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+456,"Dear customer, your Axis Bank account will be blocked today. Update your KYC immediately: http://sbi-kyc-update.example.com/verify",english,bank_kyc,scam,sms,0,train,synthetic
+457,"Unga Rs. 499 refund-ku UPI PIN anuppunga, collect request approve pannunga. Act immediately. http://192.0.2.15/login",tamil_english,upi_payment,scam,email,1013,train,synthetic
+458,HDFC Bank: your card is locked. Share your CVV and OTP to unlock it right now.,english,credential_theft,scam,sms,38,train,synthetic
+459,"Notice: This is ICICI Bank customer care, we detected suspicious activity; install a remote access app so we can fix it. Thank you. https://secure-bank-verify.example.net/auth",english,support_impersonation,scam,sms,1035,test,synthetic
+460,Are we still on for dinner on Saturday; let me know what time works. Visit https://www.example.com/help,english,legitimate,legitimate,email,1076,train,synthetic
+461,Notice: We detected a policy violation on your page; verify within 12 hours or it will be disabled. Thank you. Tap the link: https://secure-bank-verify.example.net/auth,english,account_verification,scam,sms,1052,train,synthetic
+462,"Important: Rs. 499 invest pannunga, 6 naalil double panam guaranteed. Regards, Team.",tamil_english,investment,scam,sms,1027,test,synthetic
+463,"Hi Suresh, Your Canara Bank account is on hold until PAN and Aadhaar are re-verified. Please do it today. Visit tinyurl.com/kyc-now",english,bank_kyc,scam,social,1001,train,synthetic
+464,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: tinyurl.com/kyc-now",english,account_verification,scam,email,32,train,synthetic
+465,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 2,999 at tinyurl.com/kyc-now to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+466,"Hi Karthik, the team meeting is moved to 3 PM tomorrow. Please update your calendar. Regards, Priya",english,legitimate,legitimate,email,46,train,synthetic
+467,"Notice: Congratulations, you have won a lucky draw prize; pay Rs. 25,000 to claim it. Please do it today. Tap the link: https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,social,1028,train,synthetic
+468,"Your ICICI Bank credit of Rs. 5,000 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+469,Important: Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew. Thank you. Details: https://www.example.org/track,english,legitimate,legitimate,sms,1087,train,synthetic
+470,HDFC Bank ALERT: KYC expired. Your account will be suspended within 4 hours. Click tinyurl.com/kyc-now to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+471,IT Helpdesk: confirm your username and password at https://bit.ly/3xKycUp to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+472,We regret to inform you that your SBI account has been restricted due to incomplete KYC. Kindly confirm your details at http://sbi-kyc-update.example.com/verify to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+473,"Your mobile recharge of Rs. 25,000 was successful. Validity extended by 28 days. Thank you.",english,legitimate,legitimate,sms,62,train,synthetic
+474,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: http://sbi-kyc-update.example.com/verify",english,account_verification,scam,email,32,train,synthetic
+475,Notice: Your card is locked; share your CVV and OTP to unlock it. Please do it today. http://paytm-rewards.example.xyz/claim,english,credential_theft,scam,sms,1059,val,synthetic
+476,Alert: Your order has been shipped and will arrive by Friday; you can track it in the app.,english,legitimate,legitimate,email,1072,train,synthetic
+477,"Important: Unga order dispatch aagiduchu, naalaiku delivery varum. Reply if you need help. Visit https://www.example.org/track",tamil_english,legitimate,legitimate,sms,1091,train,synthetic
+478,"Hi Arun, You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 25,000. Thank you. Tap the link: http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,email,1029,test,synthetic
+479,"Your Canara Bank OTP for the online purchase of Rs. 2,999 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+480,"Dear customer, You have a pending collect request of Rs. 5,000; approve it and enter your UPI PIN to receive money. Act immediately. https://bit.ly/3xKycUp",english,upi_payment,scam,social,1007,test,synthetic
+481,"Hi Divya, Our crypto scheme will double your money with zero risk. Visit https://bit.ly/3xKycUp",english,investment,scam,social,1022,train,synthetic
+482,Notice: You have a new voice message; sign in to listen to it. Thank you.,english,phishing,scam,email,1067,train,synthetic
+483,"Important: Rs. 1,500 invest pannunga, 2 naalil double panam guaranteed. Regards, Team. Tap the link: tinyurl.com/kyc-now",tamil_english,investment,scam,email,1027,test,synthetic
+484,"Customs Department: your parcel contains illegal items. Pay Rs. 25,000 clearance fee at http://192.0.2.15/login to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+485,"Hi Suresh, This is ICICI Bank customer care, we detected suspicious activity; install a remote access app so we can fix it.",english,support_impersonation,scam,social,1035,test,synthetic
+486,"Your cashback of Rs. 499 is ready, accept the collect request to receive it. https://bit.ly/3xKycUp",english,upi_payment,scam,email,1010,train,synthetic
+487,We noticed a policy violation on your page. Verify your account in 2 hours or it will be permanently disabled. http://paytm-rewards.example.xyz/claim,english,account_verification,scam,social,34,train,synthetic
+488,"Dear candidate, your internship offer at Zenith Global is ready. Transfer a processing fee of Rs. 2,999 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+489,"Dear customer, Our AI trading bot earns fixed daily income, 100% profit guaranteed. Reply if you need help. Visit http://192.0.2.15/login",english,investment,scam,social,1024,test,synthetic
+490,"Your cab is arriving in 3 minutes; share the trip code only with the driver. Regards, Team.",english,legitimate,legitimate,email,1085,test,synthetic
+491,"Hi Suresh, Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 5,000 fee anuppunga. http://paytm-rewards.example.xyz/claim",tamil_english,prize_lottery,scam,sms,1034,train,synthetic
+492,"Hello, Your document is ready for e-signature; log in with your email to open it. Act immediately.",english,phishing,scam,sms,1068,train,synthetic
+493,"SBI: Rs. 1,250 debited from A/c XX4521 on 03-Oct. If not you, call the number on the back of your card.",english,legitimate,legitimate,sms,44,test,synthetic
+494,"Hello, I am from technical support. Your device has a virus. Download the support app at http://sbi-kyc-update.example.com/verify and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+495,Please review the attached invoice and sign in to view the document. Tap the link: https://secure-bank-verify.example.net/auth,english,phishing,scam,sms,1063,val,synthetic
+496,"Hello, Your package could not be delivered; reschedule your delivery using the link. Reply if you need help. Visit tinyurl.com/kyc-now",english,phishing,scam,social,1065,train,synthetic
+497,"Scan the QR code below and enter your PIN to get your refund of Rs. 1,500. Act immediately. https://bit.ly/3xKycUp",english,upi_payment,scam,email,1008,train,synthetic
+498,"Hi Divya, TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer. Reply if you need help. https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,social,1045,train,synthetic
+499,"WINNER! Your number was selected in the KBC lottery. Contact our agent and pay Rs. 1,500 tax to release the prize.",english,prize_lottery,scam,sms,21,val,synthetic
+500,Congratulations Arun! You are selected for work from home at CloudNest Pvt Ltd. Pay a refundable registration fee of Rs. 499 to confirm your joining.,english,job_internship,scam,email,10,train,synthetic
+501,"Dear customer, Payment of Rs. 5,000 is stuck; confirm with your UPI PIN to reverse the transaction. tinyurl.com/kyc-now",english,upi_payment,scam,sms,1011,val,synthetic
+502,Your account has been temporarily limited; confirm your identity to restore access. Click here: http://sbi-kyc-update.example.com/verify,english,account_verification,scam,email,1051,test,synthetic
+503,Winner announcement: claim your cash reward by paying a small processing fee. Tap the link: tinyurl.com/kyc-now,english,prize_lottery,scam,email,1032,train,synthetic
+504,Your subscription payment was declined. Update your billing information immediately at https://secure-bank-verify.example.net/auth to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+505,"Unga account-ku Rs. 2,999 cashback kidaikum. UPI PIN anuppunga udane, illana cancel aagidum.",tamil_english,upi_payment,scam,sms,9,train,synthetic
+506,"Important: Your cashback of Rs. 499 is ready, accept the collect request to receive it. Click here: https://bit.ly/3xKycUp",english,upi_payment,scam,email,1010,train,synthetic
+507,"Hello, This is ICICI Bank customer care, we detected suspicious activity; install a remote access app so we can fix it. Reply if you need help. Visit http://192.0.2.15/login",english,support_impersonation,scam,email,1035,test,synthetic
+508,"Notice: Urgent hiring for data entry with high salary; send a security deposit of Rs. 1,500 to start. Reply if you need help. Visit http://paytm-rewards.example.xyz/claim",english,job_internship,scam,sms,1017,test,synthetic
+509,"Hello, I am from technical support. Your device has a virus. Download the support app at https://bit.ly/3xKycUp and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+510,Package could not be delivered. Click https://secure-bank-verify.example.net/auth to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+511,"Hello, Assignment 3 is due on Friday; upload your submission on the college portal.",english,legitimate,legitimate,sms,1079,test,synthetic
+512,"Hello, Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga.",tamil_english,legitimate,legitimate,social,1092,test,synthetic
+513,We noticed a policy violation on your page. Verify your account in 12 hours or it will be permanently disabled. http://192.0.2.15/login,english,account_verification,scam,social,34,train,synthetic
+514,"Urgent hiring for data entry with high salary; send a security deposit of Rs. 5,000 to start. Regards, Team. Click here: http://paytm-rewards.example.xyz/claim",english,job_internship,scam,email,1017,test,synthetic
+515,Guaranteed 60% returns in 6 days! Invest Rs. 499 in our crypto scheme and double your money. https://bit.ly/3xKycUp,english,investment,scam,social,15,train,synthetic
+516,"Notice: Your offer letter from Zenith Global is attached; sign and return it by Friday, no payment is required. Regards, Team. Visit https://www.example.org/track",english,legitimate,legitimate,sms,1082,train,synthetic
+517,"Invest Rs. 5,000 today and get guaranteed 60% returns within 6 days.",english,investment,scam,social,1021,val,synthetic
+518,Join our VIP stock tips group for sure-shot profits and guaranteed returns. Thank you.,english,investment,scam,email,1023,val,synthetic
+519,"Important: Your train ticket is confirmed for coach S4; carry a valid ID proof. Regards, Team. Visit https://www.example.org/track",english,legitimate,legitimate,social,1080,test,synthetic
+520,"Exclusive pre-launch offer: risk-free investment with fixed daily income. Limited slots, invest Rs. 25,000 now.",english,investment,scam,email,17,train,synthetic
+521,"Guaranteed 60% returns in 12 days! Invest Rs. 25,000 in our crypto scheme and double your money. http://paytm-rewards.example.xyz/claim",english,investment,scam,social,15,train,synthetic
+522,Notice: You are selected for a work from home job at TechNova Solutions; pay a registration fee of Rs. 499 to confirm. Please do it today. tinyurl.com/kyc-now,english,job_internship,scam,social,1014,val,synthetic
+523,"TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer. Regards, Team.",english,govt_impersonation,scam,social,1045,train,synthetic
+524,"Cashback of Rs. 25,000 is waiting. Accept the collect request in your payment app within 24 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+525,"Hi Divya, Your PAN is suspended by the government; update details immediately to avoid a fine. Reply if you need help. Visit https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,sms,1047,val,synthetic
+526,"Hi Priya, Assignment 3 is due on Friday; upload your submission on the college portal. Thank you.",english,legitimate,legitimate,email,1079,test,synthetic
+527,"Dear Arun, your Canara Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+528,A shared file is waiting for you. Kindly click the link below to open it. https://bit.ly/3xKycUp,english,phishing,scam,email,40,test,synthetic
+529,"Payment of Rs. 5,000 failed. Scan this QR code and enter your UPI PIN to get your money back. tinyurl.com/kyc-now",english,upi_payment,scam,sms,6,train,synthetic
+530,"Hi Suresh, your offer letter from BrightPath Infotech is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+531,"Income Tax Department: refund of Rs. 5,000 approved. Submit your bank details at https://bit.ly/3xKycUp within 6 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+532,"Dear customer, Project submission naalaiku, unga part anuppunga please.",tamil_english,legitimate,legitimate,sms,1093,train,synthetic
+533,"Dear customer, Your appointment is scheduled for Monday at 10 AM; call the clinic to reschedule. Regards, Team.",english,legitimate,legitimate,social,1075,train,synthetic
+534,Alert: IT helpdesk: confirm your username and password to complete the mandatory security upgrade.,english,credential_theft,scam,sms,1058,train,synthetic
+535,A shared file is waiting for you. Kindly click the link below to open it. http://192.0.2.15/login,english,phishing,scam,email,40,test,synthetic
+536,"Hello, I sent Rs. 25,000 to you by mistake, please accept the request on your UPI app and send the PIN.",english,upi_payment,scam,sms,1009,test,synthetic
+537,"Hi Karthik, Traffic department: an unpaid challan of Rs. 1,500 is pending; pay now to avoid court notice. Visit http://paytm-rewards.example.xyz/claim",english,govt_impersonation,scam,email,1046,train,synthetic
+538,"Dear Arun, thank you for attending the interview at CloudNest Pvt Ltd. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+539,"Your Canara Bank OTP for the online purchase of Rs. 1,500 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+540,"The project report must be submitted today by 5 PM; please send your part. Regards, Team.",english,legitimate,legitimate,social,1088,train,synthetic
+541,"You are our lucky winner of a free smartphone. Confirm your address and pay the delivery charge of Rs. 5,000 today only.",english,prize_lottery,scam,email,20,train,synthetic
+542,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 1,500 to start today. tinyurl.com/kyc-now",english,investment,scam,social,16,train,synthetic
+543,To avoid deactivation please send your net banking ID and password.,english,credential_theft,scam,sms,1060,train,synthetic
+544,"Payment of Rs. 1,500 failed. Scan this QR code and enter your UPI PIN to get your money back. http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,sms,6,train,synthetic
+545,"Your mobile recharge of Rs. 1,500 was successful. Validity extended by 28 days. Thank you.",english,legitimate,legitimate,sms,62,train,synthetic
+546,"Hi Suresh, Your offer letter from Zenith Global is attached; sign and return it by Friday, no payment is required. Reply if you need help.",english,legitimate,legitimate,sms,1082,train,synthetic
+547,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 1,500 claim fee to receive your reward. tinyurl.com/kyc-now",english,prize_lottery,scam,sms,19,train,synthetic
+548,"You are selected for a work from home job at Zenith Global; pay a registration fee of Rs. 1,500 to confirm. Please do it today. Visit http://192.0.2.15/login",english,job_internship,scam,sms,1014,val,synthetic
+549,"Dear customer, Failure to complete KYC will freeze your SBI savings account. Visit tinyurl.com/kyc-now",english,bank_kyc,scam,sms,1002,test,synthetic
+550,"Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 25,000 fee anuppunga. Reply if you need help.",tamil_english,prize_lottery,scam,social,1034,train,synthetic
+551,Congrats Suresh on your new job! Let's catch up this weekend and celebrate.,english,legitimate,legitimate,social,55,train,synthetic
+552,We regret to inform you that your HDFC Bank account has been restricted due to incomplete KYC. Kindly confirm your details at http://paytm-rewards.example.xyz/claim to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+553,Please review the attached invoice and sign in to view the document.,english,phishing,scam,sms,1063,val,synthetic
+554,Notice: Provide your login credentials and the code sent to your phone for verification. Visit tinyurl.com/kyc-now,english,credential_theft,scam,sms,1061,test,synthetic
+555,Important: You have a new voice message; sign in to listen to it. Act immediately. Visit http://paytm-rewards.example.xyz/claim,english,phishing,scam,email,1067,train,synthetic
+556,"Hi Arun, Your Axis Bank debit card will be deactivated because KYC is pending. Act immediately.",english,bank_kyc,scam,email,1003,val,synthetic
+557,"Hi Karthik, Limited slots in our pre-launch fund offering risk-free monthly income. Regards, Team. Visit https://bit.ly/3xKycUp",english,investment,scam,sms,1025,train,synthetic
+558,"Hello, Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 1,500 fee anuppunga. Thank you. http://192.0.2.15/login",tamil_english,prize_lottery,scam,social,1034,train,synthetic
+559,"Ungal HDFC Bank account block aagidum, KYC update pannunga udane: http://paytm-rewards.example.xyz/claim",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+560,Your courier is held at the depot. Pay a re-delivery fee of Rs. 499 at http://192.0.2.15/login to avoid return.,english,support_impersonation,scam,sms,25,train,synthetic
+561,"To secure your account, reply with your OTP and card number. Do it immediately.",english,credential_theft,scam,sms,36,val,synthetic
+562,"Hello, You have a new voice message; sign in to listen to it. Thank you. Tap the link: http://paytm-rewards.example.xyz/claim",english,phishing,scam,sms,1067,train,synthetic
+563,"Dear customer, Naan Axis Bank customer care, unga account-la problem, remote app install pannunga.",tamil_english,support_impersonation,scam,email,1041,test,synthetic
+564,Ungal account verify pannunga illana 6 hours-la close aagidum. http://192.0.2.15/login,tamil_english,account_verification,scam,sms,1055,test,synthetic
+565,"Hello, Rs. 5,000 was debited from your HDFC Bank account ending 4521; if this was not you, call the number on your card. Reply if you need help. Details: https://www.example.org/track",english,legitimate,legitimate,email,1071,train,synthetic
+566,"WINNER! Your number was selected in the KBC lottery. Contact our agent and pay Rs. 5,000 tax to release the prize.",english,prize_lottery,scam,sms,21,val,synthetic
+567,Your order has been shipped and will arrive by Friday. Track it in the app. Thank you for shopping with us.,english,legitimate,legitimate,sms,45,val,synthetic
+568,Notice: TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer. Tap the link: http://paytm-rewards.example.xyz/claim,english,govt_impersonation,scam,sms,1045,train,synthetic
+569,Your subscription account needs re-verification to avoid suspension. Tap the link: https://secure-bank-verify.example.net/auth,english,account_verification,scam,sms,1053,val,synthetic
+570,We regret to inform you that your ICICI Bank account has been restricted due to incomplete KYC. Kindly confirm your details at http://sbi-kyc-update.example.com/verify to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+571,"Exclusive pre-launch offer: risk-free investment with fixed daily income. Limited slots, invest Rs. 2,999 now.",english,investment,scam,email,17,train,synthetic
+572,"Your ICICI Bank credit of Rs. 1,500 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+573,Canara Bank: your card is locked. Share your CVV and OTP to unlock it right now.,english,credential_theft,scam,sms,38,train,synthetic
+574,"Hello, TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer. Act immediately. Click here: http://sbi-kyc-update.example.com/verify",english,govt_impersonation,scam,sms,1045,train,synthetic
+575,The project report must be submitted today by 5 PM; please send your part.,english,legitimate,legitimate,social,1088,train,synthetic
+576,"Income Tax Department: refund of Rs. 25,000 approved. Submit your bank details at http://192.0.2.15/login within 6 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+577,"Guaranteed 120% returns in 4 days! Invest Rs. 5,000 in our crypto scheme and double your money. http://paytm-rewards.example.xyz/claim",english,investment,scam,social,15,train,synthetic
+578,"Dear customer, Your mobile number won the mega bumper draw, contact our agent to collect the prize. Regards, Team. Click here: https://bit.ly/3xKycUp",english,prize_lottery,scam,social,1033,test,synthetic
+579,"Your courier is held at the depot. Pay a re-delivery fee of Rs. 25,000 at http://sbi-kyc-update.example.com/verify to avoid return.",english,support_impersonation,scam,sms,25,train,synthetic
+580,"Hey Divya, are we still on for dinner on Saturday? Let me know what time works for you.",english,legitimate,legitimate,social,49,test,synthetic
+581,"Hello, Your password expires today; enter your current password to keep your account active. Act immediately. Click here: http://192.0.2.15/login",english,credential_theft,scam,sms,1056,test,synthetic
+582,IT helpdesk: confirm your username and password to complete the mandatory security upgrade. Thank you.,english,credential_theft,scam,social,1058,train,synthetic
+583,"Hi Priya, Your mailbox is full and will be deactivated unless you verify your account. Please do it today.",english,account_verification,scam,email,1050,train,synthetic
+584,"Hi Divya, Customs has seized your parcel; pay a clearance fee of Rs. 499 to avoid legal action. Reply if you need help. tinyurl.com/kyc-now",english,govt_impersonation,scam,email,1044,train,synthetic
+585,"Alert: Income Tax Department: your refund of Rs. 1,500 is approved; submit bank details to receive it. Regards, Team. Click here: http://sbi-kyc-update.example.com/verify",english,govt_impersonation,scam,sms,1042,train,synthetic
+586,Notice: Our crypto scheme will double your money with zero risk. Reply if you need help. Tap the link: http://paytm-rewards.example.xyz/claim,english,investment,scam,email,1022,train,synthetic
+587,"Important: Unga order dispatch aagiduchu, naalaiku delivery varum. Reply if you need help.",tamil_english,legitimate,legitimate,sms,1091,train,synthetic
+588,"Payment of Rs. 5,000 failed. Scan this QR code and enter your UPI PIN to get your money back. http://192.0.2.15/login",english,upi_payment,scam,sms,6,train,synthetic
+589,"Important: Project submission naalaiku, unga part anuppunga please. Details: https://www.example.com/help",tamil_english,legitimate,legitimate,social,1093,train,synthetic
+590,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 5,000 fee anuppunga: http://192.0.2.15/login",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+591,Your subscription account needs re-verification to avoid suspension. Click here: https://secure-bank-verify.example.net/auth,english,account_verification,scam,sms,1053,val,synthetic
+592,"Amazon Support: your order of Rs. 1,500 will be charged. If this was not you, call our helpline immediately and share the OTP.",english,support_impersonation,scam,email,24,train,synthetic
+593,We regret to inform you that your HDFC Bank account has been restricted due to incomplete KYC. Kindly confirm your details at http://sbi-kyc-update.example.com/verify to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+594,"Alert: Invest Rs. 25,000 today and get guaranteed 120% returns within 24 days. Click here: http://192.0.2.15/login",english,investment,scam,social,1021,val,synthetic
+595,"Payment of Rs. 5,000 failed. Scan this QR code and enter your UPI PIN to get your money back. https://bit.ly/3xKycUp",english,upi_payment,scam,sms,6,train,synthetic
+596,"Hello, Your payment of Rs. 2,999 to CloudNest Pvt Ltd was received; this is an automated receipt. Please do it today. Details: https://www.example.org/track",english,legitimate,legitimate,email,1089,val,synthetic
+597,Alert: Your document is ready for e-signature; log in with your email to open it. Click here: http://sbi-kyc-update.example.com/verify,english,phishing,scam,sms,1068,train,synthetic
+598,"Important: Invest Rs. 25,000 today and get guaranteed 40% returns within 6 days. Visit http://paytm-rewards.example.xyz/claim",english,investment,scam,email,1021,val,synthetic
+599,"Dear customer, Customs has seized your parcel; pay a clearance fee of Rs. 2,999 to avoid legal action. Regards, Team.",english,govt_impersonation,scam,social,1044,train,synthetic
+600,"Important: Earn Rs. 2,999 daily by liking videos, no interview needed, joining fee applies. Thank you. Visit tinyurl.com/kyc-now",english,job_internship,scam,email,1016,train,synthetic
+601,"Canara Bank: Rs. 1,250 debited from A/c XX4521 on 03-Oct. If not you, call the number on the back of your card.",english,legitimate,legitimate,sms,44,test,synthetic
+602,"Important: Our support agent will refund Rs. 499; share the screen code so we can process it. Regards, Team.",english,support_impersonation,scam,social,1039,train,synthetic
+603,Your account has been temporarily limited. Confirm your identity now to restore access: https://secure-bank-verify.example.net/auth,english,account_verification,scam,sms,33,train,synthetic
+604,Your Canara Bank net banking will be deactivated. Complete KYC now or face legal action. https://bit.ly/3xKycUp,english,bank_kyc,scam,sms,3,train,synthetic
+605,"Alert: Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone. Regards, Team.",english,legitimate,legitimate,sms,1070,test,synthetic
+606,"Scan the QR code below and enter your PIN to get your refund of Rs. 1,500. Act immediately. Visit http://paytm-rewards.example.xyz/claim",english,upi_payment,scam,email,1008,train,synthetic
+607,"Dear customer, A new sign-in from Chennai was noticed; if it was you no action is needed.",english,legitimate,legitimate,social,1086,train,synthetic
+608,"Your payment of Rs. 499 to Zenith Global was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+609,Your account has been temporarily limited. Confirm your identity now to restore access: http://paytm-rewards.example.xyz/claim,english,account_verification,scam,sms,33,train,synthetic
+610,"Ungal HDFC Bank account block aagidum, KYC update pannunga udane: https://bit.ly/3xKycUp",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+611,"Hi Karthik, The project report must be submitted today by 5 PM; please send your part. Reply if you need help.",english,legitimate,legitimate,email,1088,train,synthetic
+612,"Dear Karthik, your Canara Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+613,"Important: You are selected for a work from home job at TechNova Solutions; pay a registration fee of Rs. 2,999 to confirm. Act immediately. Visit tinyurl.com/kyc-now",english,job_internship,scam,email,1014,val,synthetic
+614,Notice: The project report must be submitted today by 5 PM; please send your part. Please do it today.,english,legitimate,legitimate,sms,1088,train,synthetic
+615,Notice: Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone. Thank you. Visit https://www.example.com/help,english,legitimate,legitimate,email,1070,test,synthetic
+616,Important: Your mailbox is full and will be deactivated unless you verify your account.,english,account_verification,scam,sms,1050,train,synthetic
+617,"Income Tax Department: refund of Rs. 5,000 approved. Submit your bank details at http://sbi-kyc-update.example.com/verify within 6 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+618,Important: Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone.,english,legitimate,legitimate,social,1070,test,synthetic
+619,Important: Your order has been shipped and will arrive by Friday; you can track it in the app. Details: https://www.example.com/help,english,legitimate,legitimate,social,1072,train,synthetic
+620,"Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 25,000. Regards, Team. Click here: https://secure-bank-verify.example.net/auth",english,job_internship,scam,sms,1019,test,synthetic
+621,"Alert: Your payment of Rs. 2,999 to BrightPath Infotech was received; this is an automated receipt.",english,legitimate,legitimate,sms,1089,val,synthetic
+622,You have a new voice message; sign in to listen to it. Please do it today. Tap the link: http://192.0.2.15/login,english,phishing,scam,email,1067,train,synthetic
+623,Notice: Winner announcement: claim your cash reward by paying a small processing fee. Act immediately.,english,prize_lottery,scam,email,1032,train,synthetic
+624,"Dear customer, The project report must be submitted today by 5 PM; please send your part. Act immediately.",english,legitimate,legitimate,email,1088,train,synthetic
+625,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 5,000 fee anuppunga: http://paytm-rewards.example.xyz/claim",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+626,Important: Your PAN is suspended by the government; update details immediately to avoid a fine. Thank you. Click here: tinyurl.com/kyc-now,english,govt_impersonation,scam,sms,1047,val,synthetic
+627,WINNER! Your number was selected in the KBC lottery. Contact our agent and pay Rs. 499 tax to release the prize.,english,prize_lottery,scam,sms,21,val,synthetic
+628,"Hi Arun, Ungal password matrum OTP udane anuppunga, account lock aagidum. Act immediately. Tap the link: http://192.0.2.15/login",tamil_english,credential_theft,scam,sms,1062,test,synthetic
+629,Traffic department: an unpaid challan of Rs. 499 is pending; pay now to avoid court notice. tinyurl.com/kyc-now,english,govt_impersonation,scam,sms,1046,train,synthetic
+630,"Hello, Ungal account verify pannunga illana 4 hours-la close aagidum. Tap the link: http://sbi-kyc-update.example.com/verify",tamil_english,account_verification,scam,social,1055,test,synthetic
+631,"Guaranteed 40% returns in 6 days! Invest Rs. 25,000 in our crypto scheme and double your money. https://secure-bank-verify.example.net/auth",english,investment,scam,social,15,train,synthetic
+632,Your account has been temporarily limited. Confirm your identity now to restore access: http://192.0.2.15/login,english,account_verification,scam,sms,33,train,synthetic
+633,"Important: Customs has seized your parcel; pay a clearance fee of Rs. 25,000 to avoid legal action. Please do it today. Visit tinyurl.com/kyc-now",english,govt_impersonation,scam,email,1044,train,synthetic
+634,"Work from home velai, sambalam Rs. 2,999 daily. Registration kattanam Rs. 1,500 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+635,Important: Ungal ICICI Bank account KYC update illana block aagidum.,tamil_english,bank_kyc,scam,email,1006,train,synthetic
+636,Important: Your ICICI Bank mobile banking access ends today unless you update your PAN card. Reply if you need help. Tap the link: http://192.0.2.15/login,english,bank_kyc,scam,social,1005,train,synthetic
+637,Security check required: confirm your account ownership to continue using the service. Thank you. Click here: http://sbi-kyc-update.example.com/verify,english,account_verification,scam,sms,1054,train,synthetic
+638,"Dear customer, Your mobile number won the mega bumper draw, contact our agent to collect the prize. Reply if you need help.",english,prize_lottery,scam,social,1033,test,synthetic
+639,"Dear customer, Your card is locked; share your CVV and OTP to unlock it. Regards, Team. Tap the link: http://sbi-kyc-update.example.com/verify",english,credential_theft,scam,sms,1059,val,synthetic
+640,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 25,000 to start today. tinyurl.com/kyc-now",english,investment,scam,social,16,train,synthetic
+641,"Hi, I sent you Rs. 499 by mistake. Please approve the request on your UPI app and share the PIN so it gets reversed.",english,upi_payment,scam,social,7,val,synthetic
+642,"You are our lucky winner of a free smartphone. Confirm your address and pay the delivery charge of Rs. 25,000 today only.",english,prize_lottery,scam,email,20,train,synthetic
+643,"Important: Your HDFC Bank debit card will be deactivated because KYC is pending. Regards, Team.",english,bank_kyc,scam,email,1003,val,synthetic
+644,"Hello, Your cab is arriving in 3 minutes; share the trip code only with the driver. Regards, Team.",english,legitimate,legitimate,sms,1085,test,synthetic
+645,"Customs Department: your parcel contains illegal items. Pay Rs. 2,999 clearance fee at http://192.0.2.15/login to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+646,"Dear customer, Ungal parcel deliver aagala, inge click pannunga. Act immediately. Tap the link: https://bit.ly/3xKycUp",tamil_english,phishing,scam,email,1069,test,synthetic
+647,"Hi Arun, Your password expires today; enter your current password to keep your account active. Please do it today. https://bit.ly/3xKycUp",english,credential_theft,scam,email,1056,test,synthetic
+648,Axis Bank ALERT: KYC expired. Your account will be suspended within 2 hours. Click http://paytm-rewards.example.xyz/claim to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+649,Notice: Please review the attached invoice and sign in to view the document. Act immediately. Click here: http://192.0.2.15/login,english,phishing,scam,sms,1063,val,synthetic
+650,"Ungal ICICI Bank account block aagidum, KYC update pannunga udane: http://sbi-kyc-update.example.com/verify",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+651,"Alert: Payment of Rs. 25,000 is stuck; confirm with your UPI PIN to reverse the transaction. Thank you.",english,upi_payment,scam,social,1011,val,synthetic
+652,"Dear customer, Customs has seized your parcel; pay a clearance fee of Rs. 499 to avoid legal action. Please do it today. Click here: https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,social,1044,train,synthetic
+653,Axis Bank: your card is locked. Share your CVV and OTP to unlock it right now.,english,credential_theft,scam,sms,38,train,synthetic
+654,"Hey Suresh, are we still on for dinner on Saturday? Let me know what time works for you.",english,legitimate,legitimate,social,49,test,synthetic
+655,Alert: Your subscription account needs re-verification to avoid suspension. http://sbi-kyc-update.example.com/verify,english,account_verification,scam,social,1053,val,synthetic
+656,"Alert: You have won a gift voucher worth Rs. 25,000; confirm your card details to receive it. Reply if you need help. Tap the link: https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,social,1031,train,synthetic
+657,"Hi Karthik, Our support agent will refund Rs. 25,000; share the screen code so we can process it. Please do it today. Tap the link: https://secure-bank-verify.example.net/auth",english,support_impersonation,scam,social,1039,train,synthetic
+658,"Notice: Police notice: unga Aadhaar-la case irukku, Rs. 25,000 penalty udane kattunga. Act immediately. Click here: https://bit.ly/3xKycUp",tamil_english,govt_impersonation,scam,social,1048,train,synthetic
+659,Alert: We detected a policy violation on your page; verify within 12 hours or it will be disabled. Please do it today. Click here: http://sbi-kyc-update.example.com/verify,english,account_verification,scam,social,1052,train,synthetic
+660,Please review the attached invoice and sign in to view the document: https://secure-bank-verify.example.net/auth,english,phishing,scam,email,39,val,synthetic
+661,"Hello, Your order of Rs. 25,000 will be charged; if this was not you call our helpline and share the OTP.",english,support_impersonation,scam,social,1037,test,synthetic
+662,"Your electricity bill of Rs. 2,999 for September is generated. You can pay it in the official app before the due date.",english,legitimate,legitimate,email,47,train,synthetic
+663,Your ICICI Bank mobile banking access ends today unless you update your PAN card. Thank you. tinyurl.com/kyc-now,english,bank_kyc,scam,social,1005,train,synthetic
+664,You are our lucky winner of a free smartphone. Confirm your address and pay the delivery charge of Rs. 499 today only.,english,prize_lottery,scam,email,20,train,synthetic
+665,Alert: Assignment 3 is due on Friday; upload your submission on the college portal.,english,legitimate,legitimate,sms,1079,test,synthetic
+666,"Notice: Income Tax Department: your refund of Rs. 5,000 is approved; submit bank details to receive it. Regards, Team.",english,govt_impersonation,scam,social,1042,train,synthetic
+667,"Notice: Are we still on for dinner on Saturday; let me know what time works. Regards, Team. Visit https://www.example.org/track",english,legitimate,legitimate,sms,1076,train,synthetic
+668,"Notice: Rs. 499 invest pannunga, 4 naalil double panam guaranteed. Click here: https://bit.ly/3xKycUp",tamil_english,investment,scam,email,1027,test,synthetic
+669,"Dear customer, Provide your login credentials and the code sent to your phone for verification. Thank you. Visit http://sbi-kyc-update.example.com/verify",english,credential_theft,scam,email,1061,test,synthetic
+670,"Hello, Urgent hiring for data entry with high salary; send a security deposit of Rs. 2,999 to start.",english,job_internship,scam,social,1017,test,synthetic
+671,"You are our lucky winner of a free smartphone. Confirm your address and pay the delivery charge of Rs. 1,500 today only.",english,prize_lottery,scam,email,20,train,synthetic
+672,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 5,000 claim fee to receive your reward. tinyurl.com/kyc-now",english,prize_lottery,scam,sms,19,train,synthetic
+673,"Hi Divya, Your mailbox is full and will be deactivated unless you verify your account. Regards, Team.",english,account_verification,scam,social,1050,train,synthetic
+674,"Notice: Your offer letter from CloudNest Pvt Ltd is attached; sign and return it by Friday, no payment is required. Thank you.",english,legitimate,legitimate,email,1082,train,synthetic
+675,Alert: Thanks for attending the interview at CloudNest Pvt Ltd; results will be shared via the careers portal and no fees are charged at any stage. Please do it today.,english,legitimate,legitimate,sms,1077,val,synthetic
+676,"Dear customer, TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer. Act immediately.",english,govt_impersonation,scam,email,1045,train,synthetic
+677,"Hi Divya, your offer letter from CloudNest Pvt Ltd is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+678,"Dear customer, Unga Rs. 5,000 refund-ku UPI PIN anuppunga, collect request approve pannunga.",tamil_english,upi_payment,scam,sms,1013,train,synthetic
+679,"Your SBI credit of Rs. 25,000 was received. Available balance updated. Thank you for banking with us.",english,legitimate,legitimate,sms,56,val,synthetic
+680,"Hello, I am from technical support. Your device has a virus. Download the support app at tinyurl.com/kyc-now and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+681,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 5,000 to start today. tinyurl.com/kyc-now",english,investment,scam,social,16,train,synthetic
+682,Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone. Please do it today. Visit https://www.example.com/help,english,legitimate,legitimate,sms,1070,test,synthetic
+683,"Notice: Your order of Rs. 25,000 will be charged; if this was not you call our helpline and share the OTP. Visit https://secure-bank-verify.example.net/auth",english,support_impersonation,scam,social,1037,test,synthetic
+684,"Congratulations! You have won a lucky draw prize of Rs. 25,00,000. Pay Rs. 5,000 claim fee to receive your reward. https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,sms,19,train,synthetic
+685,"Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew. Regards, Team.",english,legitimate,legitimate,sms,1087,train,synthetic
+686,"Cyber Police Notice: a case is registered against your Aadhaar. Pay a penalty of Rs. 2,999 immediately or face arrest.",english,govt_impersonation,scam,sms,28,train,synthetic
+687,"Important: Your order of Rs. 25,000 will be charged; if this was not you call our helpline and share the OTP.",english,support_impersonation,scam,social,1037,test,synthetic
+688,Your subscription payment was declined. Update your billing information immediately at tinyurl.com/kyc-now to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+689,"Your electricity bill of Rs. 25,000 for September is generated. You can pay it in the official app before the due date.",english,legitimate,legitimate,email,47,train,synthetic
+690,Alert: Failure to complete KYC will freeze your Axis Bank savings account. Reply if you need help. Tap the link: https://secure-bank-verify.example.net/auth,english,bank_kyc,scam,social,1002,test,synthetic
+691,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 1,500 to start today. http://paytm-rewards.example.xyz/claim",english,investment,scam,social,16,train,synthetic
+692,"Hello, I am from technical support. Your device has a virus. Download the support app at http://192.0.2.15/login and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+693,"Customs Department: your parcel contains illegal items. Pay Rs. 2,999 clearance fee at tinyurl.com/kyc-now to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+694,"Dear customer, I sent Rs. 25,000 to you by mistake, please accept the request on your UPI app and send the PIN.",english,upi_payment,scam,sms,1009,test,synthetic
+695,IT Helpdesk: confirm your username and password at https://secure-bank-verify.example.net/auth to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+696,"Dear customer, Your HDFC Bank mobile banking access ends today unless you update your PAN card. Thank you.",english,bank_kyc,scam,email,1005,train,synthetic
+697,"Important: Thanks for attending the interview at TechNova Solutions; results will be shared via the careers portal and no fees are charged at any stage. Regards, Team.",english,legitimate,legitimate,email,1077,val,synthetic
+698,Important: Your statement is ready; never share your card details or OTP with anyone.,english,legitimate,legitimate,social,1078,train,synthetic
+699,"Hello, Your library book is due tomorrow; return it to avoid the late fee as per college rules. Please do it today. Details: https://www.example.org/track",english,legitimate,legitimate,email,1084,val,synthetic
+700,"Exclusive pre-launch offer: risk-free investment with fixed daily income. Limited slots, invest Rs. 1,500 now.",english,investment,scam,email,17,train,synthetic
+701,"Dear customer, Income Tax Department: your refund of Rs. 1,500 is approved; submit bank details to receive it. Please do it today.",english,govt_impersonation,scam,email,1042,train,synthetic
+702,Notice: Your ICICI Bank debit card will be deactivated because KYC is pending. Please do it today.,english,bank_kyc,scam,social,1003,val,synthetic
+703,Notice: To avoid deactivation please send your net banking ID and password. http://sbi-kyc-update.example.com/verify,english,credential_theft,scam,social,1060,train,synthetic
+704,"Dear customer, Reply with your OTP and card number to secure your account. Regards, Team.",english,credential_theft,scam,email,1057,train,synthetic
+705,"Hello, Your train ticket is confirmed for coach S4; carry a valid ID proof.",english,legitimate,legitimate,email,1080,test,synthetic
+706,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: http://192.0.2.15/login",english,account_verification,scam,email,32,train,synthetic
+707,"Hi Karthik, Income Tax Department: your refund of Rs. 1,500 is approved; submit bank details to receive it. Reply if you need help.",english,govt_impersonation,scam,sms,1042,train,synthetic
+708,"Alert: Your train ticket is confirmed for coach S4; carry a valid ID proof. Regards, Team.",english,legitimate,legitimate,email,1080,test,synthetic
+709,Notice: Security check required: confirm your account ownership to continue using the service. Click here: tinyurl.com/kyc-now,english,account_verification,scam,sms,1054,train,synthetic
+710,"Alert: Please review the attached invoice and sign in to view the document. Regards, Team. https://secure-bank-verify.example.net/auth",english,phishing,scam,social,1063,val,synthetic
+711,Your train ticket is confirmed for coach S4; carry a valid ID proof. Visit https://www.example.org/track,english,legitimate,legitimate,social,1080,test,synthetic
+712,"Dear customer, Your SIM will be blocked; contact our executive on the number given and confirm your details. Visit tinyurl.com/kyc-now",english,support_impersonation,scam,email,1040,train,synthetic
+713,"Hi Karthik, Your document is ready for e-signature; log in with your email to open it. Act immediately. Tap the link: http://paytm-rewards.example.xyz/claim",english,phishing,scam,sms,1068,train,synthetic
+714,"Hi Arun, Your password expires today; enter your current password to keep your account active. Regards, Team. Tap the link: https://bit.ly/3xKycUp",english,credential_theft,scam,social,1056,test,synthetic
+715,Notice: Your ICICI Bank account KYC has expired and the account will be blocked. Please do it today. http://192.0.2.15/login,english,bank_kyc,scam,sms,1000,test,synthetic
+716,"Dear customer, Your payment of Rs. 499 to BrightPath Infotech was received; this is an automated receipt.",english,legitimate,legitimate,sms,1089,val,synthetic
+717,"Dear customer, Work from home velai kidaikum, registration kattanam Rs. 2,999 anuppunga. Regards, Team. Tap the link: https://secure-bank-verify.example.net/auth",tamil_english,job_internship,scam,email,1020,train,synthetic
+718,A shared file is waiting for you. Kindly click the link below to open it. http://sbi-kyc-update.example.com/verify,english,phishing,scam,email,40,test,synthetic
+719,"Hi Arun, Your package could not be delivered; reschedule your delivery using the link. Please do it today. http://paytm-rewards.example.xyz/claim",english,phishing,scam,social,1065,train,synthetic
+720,"Hi Karthik, I sent Rs. 1,500 to you by mistake, please accept the request on your UPI app and send the PIN. Regards, Team. Click here: tinyurl.com/kyc-now",english,upi_payment,scam,social,1009,test,synthetic
+721,"Hi Divya, Your resume is shortlisted by Zenith Global; pay the training kit charges of Rs. 499 to receive the offer letter. Please do it today. Visit tinyurl.com/kyc-now",english,job_internship,scam,email,1018,train,synthetic
+722,Guaranteed 60% returns in 24 days! Invest Rs. 499 in our crypto scheme and double your money. http://192.0.2.15/login,english,investment,scam,social,15,train,synthetic
+723,"Dear customer, Your account has been temporarily limited; confirm your identity to restore access. Thank you.",english,account_verification,scam,sms,1051,test,synthetic
+724,We noticed a policy violation on your page. Verify your account in 24 hours or it will be permanently disabled. https://bit.ly/3xKycUp,english,account_verification,scam,social,34,train,synthetic
+725,The team meeting has moved to 3 PM tomorrow; please update your calendar. Act immediately.,english,legitimate,legitimate,email,1073,train,synthetic
+726,"Dear customer, Your order of Rs. 25,000 will be charged; if this was not you call our helpline and share the OTP.",english,support_impersonation,scam,email,1037,test,synthetic
+727,"Your PAN is suspended by the government; update details immediately to avoid a fine. Regards, Team. Tap the link: https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,social,1047,val,synthetic
+728,"Dear Priya, your Canara Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+729,"Alert: Naalaiku meeting 10 AM-ku irukku, time-ku vanga. Visit https://www.example.com/help",tamil_english,legitimate,legitimate,social,1090,val,synthetic
+730,"Important: Ungal parcel deliver aagala, inge click pannunga. http://paytm-rewards.example.xyz/claim",tamil_english,phishing,scam,sms,1069,test,synthetic
+731,We noticed a policy violation on your page. Verify your account in 24 hours or it will be permanently disabled. https://secure-bank-verify.example.net/auth,english,account_verification,scam,social,34,train,synthetic
+732,To avoid deactivation please send your net banking ID and password. Thank you. Tap the link: http://paytm-rewards.example.xyz/claim,english,credential_theft,scam,sms,1060,train,synthetic
+733,"Dear customer, Police notice: unga Aadhaar-la case irukku, Rs. 25,000 penalty udane kattunga. Please do it today. Click here: https://bit.ly/3xKycUp",tamil_english,govt_impersonation,scam,social,1048,train,synthetic
+734,Congrats Karthik on your new job! Let's catch up this weekend and celebrate.,english,legitimate,legitimate,social,55,train,synthetic
+735,"Hi Arun, Customs has seized your parcel; pay a clearance fee of Rs. 25,000 to avoid legal action. Tap the link: tinyurl.com/kyc-now",english,govt_impersonation,scam,email,1044,train,synthetic
+736,"Hello, Mandatory re-KYC for your HDFC Bank net banking is required to avoid restrictions. http://paytm-rewards.example.xyz/claim",english,bank_kyc,scam,email,1004,train,synthetic
+737,Thanks for attending the interview at Zenith Global; results will be shared via the careers portal and no fees are charged at any stage. Thank you.,english,legitimate,legitimate,social,1077,val,synthetic
+738,"Dear customer, Security check required: confirm your account ownership to continue using the service. Click here: tinyurl.com/kyc-now",english,account_verification,scam,email,1054,train,synthetic
+739,"Your cab is arriving in 3 minutes. Driver: Ramesh, vehicle TN 09 AB 1234. Share the trip OTP 5521 only with the driver.",english,legitimate,legitimate,sms,64,train,synthetic
+740,Please review the attached invoice and sign in to view the document: http://192.0.2.15/login,english,phishing,scam,email,39,val,synthetic
+741,Alert: Your SIM will be blocked; contact our executive on the number given and confirm your details. Reply if you need help. Click here: https://bit.ly/3xKycUp,english,support_impersonation,scam,email,1040,train,synthetic
+742,"Naan ICICI Bank customer care, unga account-la problem, remote app install pannunga. Regards, Team. Click here: http://192.0.2.15/login",tamil_english,support_impersonation,scam,sms,1041,test,synthetic
+743,"HDFC Bank: Rs. 1,250 debited from A/c XX4521 on 03-Oct. If not you, call the number on the back of your card.",english,legitimate,legitimate,sms,44,test,synthetic
+744,"Dear Divya, your Axis Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+745,Your Axis Bank account KYC has expired and the account will be blocked. Thank you. Click here: https://bit.ly/3xKycUp,english,bank_kyc,scam,email,1000,test,synthetic
+746,"Dear user, your mailbox is almost full and will be deactivated. Kindly verify your account here: https://secure-bank-verify.example.net/auth",english,account_verification,scam,email,32,train,synthetic
+747,A new sign-in from Chennai was noticed; if it was you no action is needed.,english,legitimate,legitimate,social,1086,train,synthetic
+748,"Notice: Rs. 25,000 was debited from your Axis Bank account ending 4521; if this was not you, call the number on your card. Please do it today.",english,legitimate,legitimate,social,1071,train,synthetic
+749,"Hello, You are selected for a work from home job at Zenith Global; pay a registration fee of Rs. 5,000 to confirm. Tap the link: https://secure-bank-verify.example.net/auth",english,job_internship,scam,sms,1014,val,synthetic
+750,"Hi Priya, your offer letter from BrightPath Infotech is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+751,"Important: Work from home velai kidaikum, registration kattanam Rs. 2,999 anuppunga. Reply if you need help. Click here: https://secure-bank-verify.example.net/auth",tamil_english,job_internship,scam,sms,1020,train,synthetic
+752,"Hello, Income Tax Department: your refund of Rs. 2,999 is approved; submit bank details to receive it. Regards, Team. Click here: https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,sms,1042,train,synthetic
+753,"Alert: Unga order dispatch aagiduchu, naalaiku delivery varum. Thank you. Details: https://www.example.org/track",tamil_english,legitimate,legitimate,email,1091,train,synthetic
+754,"Dear customer, Your offer letter from CloudNest Pvt Ltd is attached; sign and return it by Friday, no payment is required. Regards, Team.",english,legitimate,legitimate,sms,1082,train,synthetic
+755,Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew.,english,legitimate,legitimate,sms,1087,train,synthetic
+756,Notice: Our support agent will refund Rs. 499; share the screen code so we can process it. Visit https://bit.ly/3xKycUp,english,support_impersonation,scam,sms,1039,train,synthetic
+757,"Rs. 1,500 was debited from your ICICI Bank account ending 4521; if this was not you, call the number on your card. Thank you.",english,legitimate,legitimate,social,1071,train,synthetic
+758,"Hi Priya, Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Reply if you need help. https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,email,1043,train,synthetic
+759,"Dear customer, Ungal parcel deliver aagala, inge click pannunga. Visit http://192.0.2.15/login",tamil_english,phishing,scam,sms,1069,test,synthetic
+760,"Hi Priya, Congratulations, you have won a lucky draw prize; pay Rs. 5,000 to claim it. Thank you.",english,prize_lottery,scam,email,1028,train,synthetic
+761,Alert: Your fixed deposit matures on 15-Nov; visit your branch or the official app to renew. Details: https://www.example.com/help,english,legitimate,legitimate,social,1087,train,synthetic
+762,Important: Winner announcement: claim your cash reward by paying a small processing fee. Thank you. Visit https://bit.ly/3xKycUp,english,prize_lottery,scam,sms,1032,train,synthetic
+763,"Part-time job: earn Rs. 1,500 daily by liking videos. No interview, no experience needed. Pay Rs. 1,500 deposit to start. https://bit.ly/3xKycUp",english,job_internship,scam,social,11,train,synthetic
+764,Your password expires today. Log in at http://sbi-kyc-update.example.com/verify and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+765,We detected a policy violation on your page; verify within 6 hours or it will be disabled. Please do it today. Visit tinyurl.com/kyc-now,english,account_verification,scam,email,1052,train,synthetic
+766,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 1,500 fee anuppunga: https://secure-bank-verify.example.net/auth",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+767,Notice: Join our VIP stock tips group for sure-shot profits and guaranteed returns. Please do it today.,english,investment,scam,email,1023,val,synthetic
+768,"Ungal SBI account block aagidum, KYC update pannunga udane: http://sbi-kyc-update.example.com/verify",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+769,"Important: Deposit Rs. 1,500 into our forex platform and withdraw triple profit next week. Tap the link: http://sbi-kyc-update.example.com/verify",english,investment,scam,social,1026,test,synthetic
+770,"Amazon Support: your order of Rs. 499 will be charged. If this was not you, call our helpline immediately and share the OTP.",english,support_impersonation,scam,email,24,train,synthetic
+771,TRAI notice: your mobile number will be disconnected; verify your Aadhaar with our officer.,english,govt_impersonation,scam,social,1045,train,synthetic
+772,"Hello, Are we still on for dinner on Saturday; let me know what time works. Details: https://www.example.com/help",english,legitimate,legitimate,sms,1076,train,synthetic
+773,"Dear customer, Your electricity bill of Rs. 2,999 is generated; pay it in the official app before the due date. Reply if you need help.",english,legitimate,legitimate,email,1074,val,synthetic
+774,"Notice: Ungal parcel deliver aagala, inge click pannunga. Please do it today. Visit http://sbi-kyc-update.example.com/verify",tamil_english,phishing,scam,email,1069,test,synthetic
+775,"Notice: Your library book is due tomorrow; return it to avoid the late fee as per college rules. Regards, Team.",english,legitimate,legitimate,sms,1084,val,synthetic
+776,Notice: IT helpdesk: confirm your username and password to complete the mandatory security upgrade. Please do it today. Visit tinyurl.com/kyc-now,english,credential_theft,scam,social,1058,train,synthetic
+777,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 499 security deposit and your bank details. tinyurl.com/kyc-now",english,job_internship,scam,sms,13,train,synthetic
+778,"Important: You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 5,000. Visit tinyurl.com/kyc-now",english,prize_lottery,scam,email,1029,test,synthetic
+779,Your password expires today. Log in at https://bit.ly/3xKycUp and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+780,Alert: Your card is locked; share your CVV and OTP to unlock it. Click here: https://secure-bank-verify.example.net/auth,english,credential_theft,scam,social,1059,val,synthetic
+781,"Hello, You have won a gift voucher worth Rs. 1,500; confirm your card details to receive it.",english,prize_lottery,scam,sms,1031,train,synthetic
+782,Notice: Your account has been temporarily limited; confirm your identity to restore access. Please do it today.,english,account_verification,scam,social,1051,test,synthetic
+783,"Notice: To receive Rs. 499 in your wallet, authorise the payment request now. Thank you. Tap the link: http://paytm-rewards.example.xyz/claim",english,upi_payment,scam,social,1012,train,synthetic
+784,"Congratulations, you have won a lucky draw prize; pay Rs. 2,999 to claim it. Regards, Team. Tap the link: tinyurl.com/kyc-now",english,prize_lottery,scam,sms,1028,train,synthetic
+785,Notice: Your cab is arriving in 3 minutes; share the trip code only with the driver. Please do it today.,english,legitimate,legitimate,email,1085,test,synthetic
+786,"Customs Department: your parcel contains illegal items. Pay Rs. 5,000 clearance fee at http://192.0.2.15/login to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+787,Your ICICI Bank account is on hold until PAN and Aadhaar are re-verified. Act immediately. Visit http://sbi-kyc-update.example.com/verify,english,bank_kyc,scam,email,1001,train,synthetic
+788,"Hi Karthik, Failure to complete KYC will freeze your Axis Bank savings account. Please do it today. Click here: https://bit.ly/3xKycUp",english,bank_kyc,scam,email,1002,test,synthetic
+789,Please review the attached invoice and sign in to view the document. Thank you.,english,phishing,scam,social,1063,val,synthetic
+790,Alert: Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone. Act immediately.,english,legitimate,legitimate,sms,1070,test,synthetic
+791,Security notice: unusual sign-in detected. Verify your account within 24 hours or it will be closed. http://192.0.2.15/login,english,account_verification,scam,email,31,test,synthetic
+792,"Dear customer, your SBI account will be blocked today. Update your KYC immediately: http://192.0.2.15/login",english,bank_kyc,scam,sms,0,train,synthetic
+793,Important: A shared file is waiting for you; open the link to view it. Reply if you need help. https://secure-bank-verify.example.net/auth,english,phishing,scam,sms,1064,train,synthetic
+794,"Hello, Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Act immediately. Visit https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,email,1043,train,synthetic
+795,"Alert: Thanks for attending the interview at CloudNest Pvt Ltd; results will be shared via the careers portal and no fees are charged at any stage. Regards, Team.",english,legitimate,legitimate,social,1077,val,synthetic
+796,"Hello, Your courier is on hold at the depot; pay a re-delivery fee of Rs. 499 to avoid return.",english,support_impersonation,scam,social,1038,val,synthetic
+797,"Dear customer, Your card is locked; share your CVV and OTP to unlock it.",english,credential_theft,scam,email,1059,val,synthetic
+798,"Alert: Rs. 25,000 invest pannunga, 24 naalil double panam guaranteed. Reply if you need help. Tap the link: https://secure-bank-verify.example.net/auth",tamil_english,investment,scam,sms,1027,test,synthetic
+799,Your password expires today; enter your current password to keep your account active. http://192.0.2.15/login,english,credential_theft,scam,sms,1056,test,synthetic
+800,Unusual sign-in detected on your account; verify your identity or it will be closed. Thank you. http://sbi-kyc-update.example.com/verify,english,account_verification,scam,email,1049,val,synthetic
+801,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 499 security deposit and your bank details. http://192.0.2.15/login",english,job_internship,scam,sms,13,train,synthetic
+802,"Dear customer, Reply with your OTP and card number to secure your account. Reply if you need help.",english,credential_theft,scam,sms,1057,train,synthetic
+803,"Dear customer, You have won a gift voucher worth Rs. 499; confirm your card details to receive it. Regards, Team.",english,prize_lottery,scam,sms,1031,train,synthetic
+804,Important: Your HDFC Bank debit card will be deactivated because KYC is pending. Please do it today.,english,bank_kyc,scam,email,1003,val,synthetic
+805,"Alert: Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 1,500. Reply if you need help.",english,job_internship,scam,sms,1019,test,synthetic
+806,"Payment of Rs. 25,000 failed. Scan this QR code and enter your UPI PIN to get your money back. tinyurl.com/kyc-now",english,upi_payment,scam,sms,6,train,synthetic
+807,"Ungal Axis Bank account block aagidum, KYC update pannunga udane: https://secure-bank-verify.example.net/auth",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+808,"Hi Arun, Your package could not be delivered; reschedule your delivery using the link. Reply if you need help.",english,phishing,scam,email,1065,train,synthetic
+809,"Cyber Police Notice: a case is registered against your Aadhaar. Pay a penalty of Rs. 1,500 immediately or face arrest.",english,govt_impersonation,scam,sms,28,train,synthetic
+810,"Earn passive income of Rs. 25,000 every day with our AI trading bot. 100% profit guaranteed. Register: https://secure-bank-verify.example.net/auth",english,investment,scam,sms,18,train,synthetic
+811,Your Canara Bank net banking will be deactivated. Complete KYC now or face legal action. http://paytm-rewards.example.xyz/claim,english,bank_kyc,scam,sms,3,train,synthetic
+812,"Notice: Your electricity bill of Rs. 1,500 is generated; pay it in the official app before the due date. Please do it today. Visit https://www.example.com/help",english,legitimate,legitimate,email,1074,val,synthetic
+813,Your account has been temporarily limited. Confirm your identity now to restore access: tinyurl.com/kyc-now,english,account_verification,scam,sms,33,train,synthetic
+814,"Urgent hiring for data entry with high salary; send a security deposit of Rs. 25,000 to start. Reply if you need help. Click here: http://192.0.2.15/login",english,job_internship,scam,sms,1017,test,synthetic
+815,"Hi Suresh, A shared file is waiting for you; open the link to view it. Act immediately. Click here: http://sbi-kyc-update.example.com/verify",english,phishing,scam,social,1064,train,synthetic
+816,Ungal Axis Bank statement ready aagiduchu. Official app-la login pannitu paarunga. OTP yaarukum share pannathinga.,tamil_english,legitimate,legitimate,sms,69,test,synthetic
+817,"Hi Divya, the team meeting is moved to 3 PM tomorrow. Please update your calendar. Regards, Priya",english,legitimate,legitimate,email,46,train,synthetic
+818,Notice: Your Axis Bank mobile banking access ends today unless you update your PAN card. Act immediately.,english,bank_kyc,scam,sms,1005,train,synthetic
+819,"Alert: Police notice: unga Aadhaar-la case irukku, Rs. 1,500 penalty udane kattunga. Tap the link: http://192.0.2.15/login",tamil_english,govt_impersonation,scam,sms,1048,train,synthetic
+820,Your Axis Bank account is on hold until PAN and Aadhaar are re-verified. Thank you.,english,bank_kyc,scam,sms,1001,train,synthetic
+821,"Hi Priya, Neenga lucky draw prize jeythirukkeenga, claim panna Rs. 499 fee anuppunga. Act immediately. https://bit.ly/3xKycUp",tamil_english,prize_lottery,scam,social,1034,train,synthetic
+822,"Part-time typing job, daily payment guaranteed, first pay a processing fee of Rs. 5,000. Click here: https://secure-bank-verify.example.net/auth",english,job_internship,scam,email,1019,test,synthetic
+823,"Earn passive income of Rs. 25,000 every day with our AI trading bot. 100% profit guaranteed. Register: http://paytm-rewards.example.xyz/claim",english,investment,scam,sms,18,train,synthetic
+824,"Cashback of Rs. 5,000 is waiting. Accept the collect request in your payment app within 6 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+825,"You are selected for a work from home job at Zenith Global; pay a registration fee of Rs. 2,999 to confirm. Act immediately. Tap the link: https://secure-bank-verify.example.net/auth",english,job_internship,scam,social,1014,val,synthetic
+826,"Hello, Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Regards, Team. Click here: http://192.0.2.15/login",english,govt_impersonation,scam,sms,1043,train,synthetic
+827,"Exclusive pre-launch offer: risk-free investment with fixed daily income. Limited slots, invest Rs. 499 now.",english,investment,scam,email,17,train,synthetic
+828,"Hi Suresh, Naalaiku meeting 10 AM-ku irukku, time-ku vanga. Act immediately. Visit https://www.example.com/help",tamil_english,legitimate,legitimate,email,1090,val,synthetic
+829,Our crypto scheme will double your money with zero risk. Reply if you need help. tinyurl.com/kyc-now,english,investment,scam,social,1022,train,synthetic
+830,"Cashback of Rs. 5,000 is waiting. Accept the collect request in your payment app within 24 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+831,"Rs. 499 was debited from your SBI account ending 4521; if this was not you, call the number on your card. Act immediately.",english,legitimate,legitimate,sms,1071,train,synthetic
+832,ICICI Bank ALERT: KYC expired. Your account will be suspended within 12 hours. Click http://paytm-rewards.example.xyz/claim to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+833,"WINNER! Your number was selected in the KBC lottery. Contact our agent and pay Rs. 2,999 tax to release the prize.",english,prize_lottery,scam,sms,21,val,synthetic
+834,"You have received a collect request of Rs. 5,000. Approve it and enter your UPI PIN to receive the refund.",english,upi_payment,scam,sms,5,train,synthetic
+835,"Hi Arun, Your resume is shortlisted by Zenith Global; pay the training kit charges of Rs. 2,999 to receive the offer letter. Act immediately. Visit https://bit.ly/3xKycUp",english,job_internship,scam,social,1018,train,synthetic
+836,Ungal ICICI Bank statement ready aagiduchu. Official app-la login pannitu paarunga. OTP yaarukum share pannathinga.,tamil_english,legitimate,legitimate,sms,69,test,synthetic
+837,"Hello, I am from technical support. Your device has a virus. Download the support app at https://secure-bank-verify.example.net/auth and give us access.",english,support_impersonation,scam,social,26,train,synthetic
+838,Please review the attached invoice and sign in to view the document. Please do it today. Tap the link: https://bit.ly/3xKycUp,english,phishing,scam,sms,1063,val,synthetic
+839,Security notice: unusual sign-in detected. Verify your account within 24 hours or it will be closed. http://paytm-rewards.example.xyz/claim,english,account_verification,scam,email,31,test,synthetic
+840,You have a new voice message; sign in to listen to it. Reply if you need help. Visit http://192.0.2.15/login,english,phishing,scam,social,1067,train,synthetic
+841,"Payment of Rs. 2,999 failed. Scan this QR code and enter your UPI PIN to get your money back. http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,sms,6,train,synthetic
+842,"Your ICICI Bank OTP for the online purchase of Rs. 499 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+843,To avoid deactivation please send your net banking ID and password. Please do it today.,english,credential_theft,scam,email,1060,train,synthetic
+844,Ungal account verify pannunga illana 24 hours-la close aagidum.,tamil_english,account_verification,scam,social,1055,test,synthetic
+845,"Hello, Your password expires today; enter your current password to keep your account active.",english,credential_theft,scam,email,1056,test,synthetic
+846,Your electricity bill of Rs. 499 for September is generated. You can pay it in the official app before the due date.,english,legitimate,legitimate,email,47,train,synthetic
+847,"Hello, We detected a policy violation on your page; verify within 4 hours or it will be disabled. Thank you. Click here: https://secure-bank-verify.example.net/auth",english,account_verification,scam,email,1052,train,synthetic
+848,IT Helpdesk: confirm your username and password at http://paytm-rewards.example.xyz/claim to complete the mandatory security upgrade.,english,credential_theft,scam,email,37,train,synthetic
+849,"Hello, Reply with your OTP and card number to secure your account. Please do it today. http://paytm-rewards.example.xyz/claim",english,credential_theft,scam,social,1057,train,synthetic
+850,"Notice: To receive Rs. 2,999 in your wallet, authorise the payment request now.",english,upi_payment,scam,social,1012,train,synthetic
+851,"Payment of Rs. 25,000 is stuck; confirm with your UPI PIN to reverse the transaction. Reply if you need help. Visit http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,social,1011,val,synthetic
+852,"Hello, Project submission naalaiku, unga part anuppunga please. Visit https://www.example.com/help",tamil_english,legitimate,legitimate,email,1093,train,synthetic
+853,"Hi Karthik, Rs. 499 was debited from your SBI account ending 4521; if this was not you, call the number on your card. Details: https://www.example.com/help",english,legitimate,legitimate,email,1071,train,synthetic
+854,Package could not be delivered. Click http://paytm-rewards.example.xyz/claim to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+855,"Cyber Police Notice: a case is registered against your Aadhaar. Pay a penalty of Rs. 5,000 immediately or face arrest.",english,govt_impersonation,scam,sms,28,train,synthetic
+856,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 25,000 fee anuppunga: http://sbi-kyc-update.example.com/verify",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+857,"Alert: Congratulations, you have won a lucky draw prize; pay Rs. 2,999 to claim it. Tap the link: http://192.0.2.15/login",english,prize_lottery,scam,social,1028,train,synthetic
+858,Reply with your OTP and card number to secure your account. Please do it today. Visit http://192.0.2.15/login,english,credential_theft,scam,social,1057,train,synthetic
+859,Important: Failure to complete KYC will freeze your HDFC Bank savings account. Please do it today. http://paytm-rewards.example.xyz/claim,english,bank_kyc,scam,sms,1002,test,synthetic
+860,"Notice: Your subscription account needs re-verification to avoid suspension. Regards, Team. http://paytm-rewards.example.xyz/claim",english,account_verification,scam,social,1053,val,synthetic
+861,"Notice: Your internship offer from TechNova Solutions is ready after you pay a refundable deposit of Rs. 25,000. Act immediately. Click here: http://paytm-rewards.example.xyz/claim",english,job_internship,scam,sms,1015,train,synthetic
+862,Notice: Your order has been shipped and will arrive by Friday; you can track it in the app. Thank you.,english,legitimate,legitimate,email,1072,train,synthetic
+863,Notice: A shared file is waiting for you; open the link to view it.,english,phishing,scam,social,1064,train,synthetic
+864,"Work from home velai, sambalam Rs. 25,000 daily. Registration kattanam Rs. 5,000 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+865,"Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 2,999 to release the prize. Click here: tinyurl.com/kyc-now",english,prize_lottery,scam,sms,1030,val,synthetic
+866,Your SBI account KYC has expired and the account will be blocked. Act immediately. Tap the link: https://secure-bank-verify.example.net/auth,english,bank_kyc,scam,email,1000,test,synthetic
+867,"Dear customer, your Canara Bank account will be blocked today. Update your KYC immediately: http://sbi-kyc-update.example.com/verify",english,bank_kyc,scam,sms,0,train,synthetic
+868,"Important: Your recharge of Rs. 2,999 was successful and validity is extended by 28 days. Act immediately.",english,legitimate,legitimate,social,1083,val,synthetic
+869,"You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 25,000. Thank you. Tap the link: https://secure-bank-verify.example.net/auth",english,prize_lottery,scam,sms,1029,test,synthetic
+870,"Part-time job: earn Rs. 25,000 daily by liking videos. No interview, no experience needed. Pay Rs. 1,500 deposit to start. https://secure-bank-verify.example.net/auth",english,job_internship,scam,social,11,train,synthetic
+871,"Customs Department: your parcel contains illegal items. Pay Rs. 5,000 clearance fee at tinyurl.com/kyc-now to avoid legal action.",english,govt_impersonation,scam,email,29,train,synthetic
+872,"Ungal SBI account block aagidum, KYC update pannunga udane: tinyurl.com/kyc-now",tamil_english,bank_kyc,scam,sms,4,train,synthetic
+873,"Hi Arun, Your package could not be delivered; reschedule your delivery using the link. Click here: https://bit.ly/3xKycUp",english,phishing,scam,sms,1065,train,synthetic
+874,"Important: Work from home velai kidaikum, registration kattanam Rs. 499 anuppunga. Regards, Team. Visit http://sbi-kyc-update.example.com/verify",tamil_english,job_internship,scam,email,1020,train,synthetic
+875,"Dear customer, You have a pending collect request of Rs. 2,999; approve it and enter your UPI PIN to receive money. Act immediately. https://secure-bank-verify.example.net/auth",english,upi_payment,scam,email,1007,test,synthetic
+876,"Payment of Rs. 25,000 is stuck; confirm with your UPI PIN to reverse the transaction. Thank you. Click here: https://secure-bank-verify.example.net/auth",english,upi_payment,scam,sms,1011,val,synthetic
+877,"Your payment of Rs. 1,500 to CloudNest Pvt Ltd was received. A receipt is attached. This is an automated message, no action needed.",english,legitimate,legitimate,email,65,val,synthetic
+878,"Dear candidate, your internship offer at TechNova Solutions is ready. Transfer a processing fee of Rs. 5,000 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+879,"Your SBI OTP for the online purchase of Rs. 25,000 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+880,"Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 499 to release the prize. Please do it today. tinyurl.com/kyc-now",english,prize_lottery,scam,sms,1030,val,synthetic
+881,"Hi Arun, your offer letter from TechNova Solutions is attached. Please sign and return it by Friday. Reach out to HR if you have questions. No payment is required.",english,legitimate,legitimate,email,61,test,synthetic
+882,Your package could not be delivered; reschedule your delivery using the link.,english,phishing,scam,sms,1065,train,synthetic
+883,Your password expires today. Log in at http://192.0.2.15/login and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+884,HDFC Bank ALERT: KYC expired. Your account will be suspended within 6 hours. Click https://secure-bank-verify.example.net/auth to verify PAN and Aadhaar.,english,bank_kyc,scam,sms,1,train,synthetic
+885,"Your password was changed successfully. If you did not make this change, open the official website directly and reset it.",english,legitimate,legitimate,email,54,val,synthetic
+886,"Hi Priya, Technical support here: your device has a virus; download the support tool and give us access. Please do it today. Visit https://secure-bank-verify.example.net/auth",english,support_impersonation,scam,social,1036,train,synthetic
+887,Important: Your SBI account KYC has expired and the account will be blocked.,english,bank_kyc,scam,sms,1000,test,synthetic
+888,Package could not be delivered. Click http://sbi-kyc-update.example.com/verify to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+889,This is HDFC Bank customer care. Your account has suspicious activity. Install AnyDesk and share the code so we can secure it.,english,support_impersonation,scam,sms,23,train,synthetic
+890,Are we still on for dinner on Saturday; let me know what time works. Details: https://www.example.org/track,english,legitimate,legitimate,social,1076,train,synthetic
+891,"Dear customer, Unga statement ready, official app-la login pannitu paarunga, OTP yaarukum share pannathinga. Reply if you need help.",tamil_english,legitimate,legitimate,social,1092,test,synthetic
+892,Alert: Cyber police notice: a case is registered against your Aadhaar; pay a penalty or face arrest. Reply if you need help. Visit https://bit.ly/3xKycUp,english,govt_impersonation,scam,email,1043,train,synthetic
+893,Your order has been shipped and will arrive by Friday; you can track it in the app.,english,legitimate,legitimate,social,1072,train,synthetic
+894,"Dear customer, Earn Rs. 1,500 daily by liking videos, no interview needed, joining fee applies. Act immediately. Visit http://sbi-kyc-update.example.com/verify",english,job_internship,scam,sms,1016,train,synthetic
+895,"Important: Naalaiku meeting 10 AM-ku irukku, time-ku vanga. Act immediately.",tamil_english,legitimate,legitimate,email,1090,val,synthetic
+896,"Dear customer, Work from home velai kidaikum, registration kattanam Rs. 2,999 anuppunga. Act immediately. Visit https://bit.ly/3xKycUp",tamil_english,job_internship,scam,sms,1020,train,synthetic
+897,"Important: Your electricity bill of Rs. 2,999 is generated; pay it in the official app before the due date. Regards, Team.",english,legitimate,legitimate,social,1074,val,synthetic
+898,Your password expires today. Log in at http://paytm-rewards.example.xyz/claim and enter your current password to keep your account active.,english,credential_theft,scam,email,35,train,synthetic
+899,"Your number was selected in a lottery of Rs. 25,00,000; pay tax of Rs. 499 to release the prize. Click here: http://192.0.2.15/login",english,prize_lottery,scam,email,1030,val,synthetic
+900,"Dear customer, Your password was changed successfully; if this was not you, reset it from the official website. Details: https://www.example.org/track",english,legitimate,legitimate,email,1081,train,synthetic
+901,"Important: You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 1,500. Click here: http://paytm-rewards.example.xyz/claim",english,prize_lottery,scam,email,1029,test,synthetic
+902,Notice: Your mailbox is full and will be deactivated unless you verify your account. Tap the link: https://secure-bank-verify.example.net/auth,english,account_verification,scam,social,1050,train,synthetic
+903,"Income Tax Department: refund of Rs. 5,000 approved. Submit your bank details at tinyurl.com/kyc-now within 12 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+904,"Hello, Your subscription payment was declined; update your billing information to avoid cancellation. https://bit.ly/3xKycUp",english,phishing,scam,sms,1066,train,synthetic
+905,Important: We detected a policy violation on your page; verify within 24 hours or it will be disabled. Reply if you need help. http://sbi-kyc-update.example.com/verify,english,account_verification,scam,social,1052,train,synthetic
+906,Important: Your internship offer from BrightPath Infotech is ready after you pay a refundable deposit of Rs. 499.,english,job_internship,scam,social,1015,train,synthetic
+907,"Hello, Unusual sign-in detected on your account; verify your identity or it will be closed. Reply if you need help. Click here: tinyurl.com/kyc-now",english,account_verification,scam,email,1049,val,synthetic
+908,"Invest Rs. 25,000 today and get guaranteed 240% returns within 4 days. Please do it today.",english,investment,scam,email,1021,val,synthetic
+909,"Cashback of Rs. 25,000 is waiting. Accept the collect request in your payment app within 6 minutes.",english,upi_payment,scam,sms,8,train,synthetic
+910,"Hello, Your internship offer from TechNova Solutions is ready after you pay a refundable deposit of Rs. 1,500. Act immediately. Visit https://bit.ly/3xKycUp",english,job_internship,scam,social,1015,train,synthetic
+911,"Hi Suresh, You are the lucky winner of a free smartphone; pay the delivery charge of Rs. 2,999.",english,prize_lottery,scam,email,1029,test,synthetic
+912,"Hi Priya, Your statement is ready; never share your card details or OTP with anyone. Thank you.",english,legitimate,legitimate,sms,1078,train,synthetic
+913,Important: To avoid deactivation please send your net banking ID and password. Act immediately. Click here: https://bit.ly/3xKycUp,english,credential_theft,scam,sms,1060,train,synthetic
+914,ICICI Bank: your card is locked. Share your CVV and OTP to unlock it right now.,english,credential_theft,scam,sms,38,train,synthetic
+915,We regret to inform you that your SBI account has been restricted due to incomplete KYC. Kindly confirm your details at https://bit.ly/3xKycUp to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+916,Assignment 3 is due on Friday. Please upload your submission on the college portal. Contact the faculty if you need an extension.,english,legitimate,legitimate,email,52,train,synthetic
+917,"Hello, To receive Rs. 499 in your wallet, authorise the payment request now. Act immediately. http://192.0.2.15/login",english,upi_payment,scam,sms,1012,train,synthetic
+918,"Congratulations! Neenga lucky draw-la prize jeythirukkeenga. Claim panna Rs. 1,500 fee anuppunga: http://paytm-rewards.example.xyz/claim",tamil_english,prize_lottery,scam,sms,22,train,synthetic
+919,Your subscription payment was declined. Update your billing information immediately at http://paytm-rewards.example.xyz/claim to avoid cancellation.,english,phishing,scam,email,42,train,synthetic
+920,"Income Tax Department: refund of Rs. 1,500 approved. Submit your bank details at http://192.0.2.15/login within 2 hours.",english,govt_impersonation,scam,sms,27,test,synthetic
+921,Notice: Your Axis Bank account KYC has expired and the account will be blocked. Reply if you need help. Click here: tinyurl.com/kyc-now,english,bank_kyc,scam,sms,1000,test,synthetic
+922,"Hello, Your OTP for the transaction is 482913 and is valid for 10 minutes; do not share it with anyone. Reply if you need help.",english,legitimate,legitimate,sms,1070,test,synthetic
+923,"Hi Suresh, Mandatory re-KYC for your SBI net banking is required to avoid restrictions. Act immediately.",english,bank_kyc,scam,social,1004,train,synthetic
+924,"Dear customer, Urgent hiring for data entry with high salary; send a security deposit of Rs. 1,500 to start. Regards, Team.",english,job_internship,scam,email,1017,test,synthetic
+925,"Your ICICI Bank OTP for the online purchase of Rs. 5,000 is 719364. Do not share it with anyone. If you did not request it, ignore this message.",english,legitimate,legitimate,sms,60,train,synthetic
+926,Notice: A shared file is waiting for you; open the link to view it. Thank you. Click here: http://192.0.2.15/login,english,phishing,scam,email,1064,train,synthetic
+927,"Dear Karthik, thank you for attending the interview at CloudNest Pvt Ltd. We will share the result via the careers portal within 7 days. No fees are charged at any stage.",english,legitimate,legitimate,email,50,train,synthetic
+928,"Dear customer, Traffic department: an unpaid challan of Rs. 2,999 is pending; pay now to avoid court notice. Act immediately. https://secure-bank-verify.example.net/auth",english,govt_impersonation,scam,sms,1046,train,synthetic
+929,"Exclusive pre-launch offer: risk-free investment with fixed daily income. Limited slots, invest Rs. 5,000 now.",english,investment,scam,email,17,train,synthetic
+930,"Important: Traffic department: an unpaid challan of Rs. 2,999 is pending; pay now to avoid court notice. Act immediately.",english,govt_impersonation,scam,sms,1046,train,synthetic
+931,"Your password was changed successfully; if this was not you, reset it from the official website. Act immediately.",english,legitimate,legitimate,social,1081,train,synthetic
+932,"Urgent hiring! Data entry job, salary Rs. 40,000 per month. Send Rs. 2,999 security deposit and your bank details. tinyurl.com/kyc-now",english,job_internship,scam,sms,13,train,synthetic
+933,"Dear Suresh, your Canara Bank fixed deposit matures on 15-Nov. Visit your nearest branch or the official app to renew.",english,legitimate,legitimate,sms,68,train,synthetic
+934,"Dear candidate, your internship offer at BrightPath Infotech is ready. Transfer a processing fee of Rs. 499 today to receive the offer letter.",english,job_internship,scam,email,12,val,synthetic
+935,"To receive Rs. 5,000 in your wallet, authorise the payment request now. Click here: http://sbi-kyc-update.example.com/verify",english,upi_payment,scam,social,1012,train,synthetic
+936,"Hi Karthik, naalaiku meeting 10 AM-ku irukku. Please time-ku vanga. Thanks.",tamil_english,legitimate,legitimate,sms,57,train,synthetic
+937,Security notice: unusual sign-in detected. Verify your account within 4 hours or it will be closed. tinyurl.com/kyc-now,english,account_verification,scam,email,31,test,synthetic
+938,"Alert: Unga Rs. 1,500 refund-ku UPI PIN anuppunga, collect request approve pannunga. Tap the link: http://192.0.2.15/login",tamil_english,upi_payment,scam,email,1013,train,synthetic
+939,"Join our VIP trading group. Our expert gives sure-shot tips with guaranteed profit. Deposit Rs. 5,000 to start today. https://secure-bank-verify.example.net/auth",english,investment,scam,social,16,train,synthetic
+940,"Alert: Your courier is on hold at the depot; pay a re-delivery fee of Rs. 5,000 to avoid return. Act immediately. http://sbi-kyc-update.example.com/verify",english,support_impersonation,scam,email,1038,val,synthetic
+941,We regret to inform you that your SBI account has been restricted due to incomplete KYC. Kindly confirm your details at tinyurl.com/kyc-now to avoid penalty.,english,bank_kyc,scam,email,2,val,synthetic
+942,We detected a policy violation on your page; verify within 6 hours or it will be disabled. Reply if you need help. Tap the link: http://sbi-kyc-update.example.com/verify,english,account_verification,scam,social,1052,train,synthetic
+943,"Congratulations Priya! You are selected for work from home at Zenith Global. Pay a refundable registration fee of Rs. 25,000 to confirm your joining.",english,job_internship,scam,email,10,train,synthetic
+944,"Work from home velai, sambalam Rs. 2,999 daily. Registration kattanam Rs. 2,999 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic
+945,Package could not be delivered. Click http://192.0.2.15/login to reschedule your delivery now.,english,phishing,scam,sms,41,test,synthetic
+946,Notice: Assignment 3 is due on Friday; upload your submission on the college portal. Reply if you need help. Visit https://www.example.org/track,english,legitimate,legitimate,sms,1079,test,synthetic
+947,"Important: Scan the QR code below and enter your PIN to get your refund of Rs. 1,500. Thank you.",english,upi_payment,scam,sms,1008,train,synthetic
+948,"Work from home velai, sambalam Rs. 499 daily. Registration kattanam Rs. 499 anuppunga, udane join pannunga.",tamil_english,job_internship,scam,social,14,train,synthetic

@@ -1,0 +1,15 @@
+expected got        ok  text
+scam     LOW        N   Sir your electricity will be cut tonight at 9:30 pm because previous m
+scam     LOW        N   Hello, we found your CV on Naukri. Join our team as a remote typist, e
+scam     MEDIUM     Y   Final reminder: your Netflix membership has been put on hold. Update p
+scam     LOW        N   Hi mom, I lost my phone, this is my new number. Please send 5000 rupee
+scam     HIGH       Y   ATTENTION: Your PAN-Aadhaar is not linked, ₹1000 penalty. Link now at 
+scam     UNCERTAIN  N   Ungal parcel customs-la hold-la irukku, clearance fee 2500 UPI-la anup
+legit    LOW        Y   Hi Karthik, attaching the notes from today's class. Let me know if any
+legit    LOW        Y   Your Swiggy order #4521 is out for delivery. Your delivery partner wil
+legit    LOW        Y   Reminder: your car insurance renews on 20 Oct. Renew from the official
+legit    LOW        Y   Dear student, hall tickets for the semester exam are available on the 
+legit    UNCERTAIN  N   Your Amazon package was delivered to your front door. Rate your experi
+legit    LOW        Y   Machan, nalaiku lab record submit pannanum, marakama kondu va da.
+
+Correct (UNCERTAIN counted as not correct): 7/12

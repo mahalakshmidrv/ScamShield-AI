@@ -1,0 +1,341 @@
+{
+  "data_origin": "SYNTHETIC (template-generated). Not representative of real-world accuracy.",
+  "dataset_size": 948,
+  "split_sizes": {
+    "train": 585,
+    "val": 159,
+    "test": 204
+  },
+  "class_distribution": {
+    "train": {
+      "legitimate": 137,
+      "bank_kyc": 56,
+      "job_internship": 56,
+      "upi_payment": 50,
+      "govt_impersonation": 49,
+      "prize_lottery": 45,
+      "support_impersonation": 42,
+      "investment": 41,
+      "account_verification": 38,
+      "phishing": 36,
+      "credential_theft": 35
+    },
+    "val": {
+      "legitimate": 55,
+      "job_internship": 14,
+      "bank_kyc": 14,
+      "investment": 12,
+      "account_verification": 12,
+      "phishing": 12,
+      "prize_lottery": 11,
+      "upi_payment": 10,
+      "credential_theft": 7,
+      "support_impersonation": 6,
+      "govt_impersonation": 6
+    },
+    "test": {
+      "legitimate": 55,
+      "account_verification": 20,
+      "support_impersonation": 18,
+      "credential_theft": 18,
+      "phishing": 18,
+      "investment": 18,
+      "job_internship": 12,
+      "bank_kyc": 12,
+      "prize_lottery": 12,
+      "upi_payment": 12,
+      "govt_impersonation": 9
+    }
+  },
+  "model_comparison_on_validation": {
+    "logreg": {
+      "val_macro_f1": 0.7077
+    },
+    "linear_svm": {
+      "val_macro_f1": 0.6864
+    },
+    "complement_nb": {
+      "val_macro_f1": 0.773
+    }
+  },
+  "chosen_model": "logreg (TF-IDF word+char)",
+  "test_report": {
+    "account_verification": {
+      "precision": 1.0,
+      "recall": 0.7,
+      "f1-score": 0.8235294117647058,
+      "support": 20.0
+    },
+    "bank_kyc": {
+      "precision": 0.4444444444444444,
+      "recall": 1.0,
+      "f1-score": 0.6153846153846154,
+      "support": 12.0
+    },
+    "credential_theft": {
+      "precision": 1.0,
+      "recall": 0.4444444444444444,
+      "f1-score": 0.6153846153846154,
+      "support": 18.0
+    },
+    "govt_impersonation": {
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1-score": 0.75,
+      "support": 9.0
+    },
+    "investment": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 18.0
+    },
+    "job_internship": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "legitimate": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1-score": 0.9090909090909091,
+      "support": 55.0
+    },
+    "phishing": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 18.0
+    },
+    "prize_lottery": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 12.0
+    },
+    "support_impersonation": {
+      "precision": 0.8571428571428571,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.75,
+      "support": 18.0
+    },
+    "upi_payment": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "accuracy": 0.8333333333333334,
+    "macro avg": {
+      "precision": 0.8849927849927851,
+      "recall": 0.8161616161616162,
+      "f1-score": 0.8118232925719556,
+      "support": 204.0
+    },
+    "weighted avg": {
+      "precision": 0.8921335200746965,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.8312849347883949,
+      "support": 204.0
+    }
+  },
+  "labels": [
+    "account_verification",
+    "bank_kyc",
+    "credential_theft",
+    "govt_impersonation",
+    "investment",
+    "job_internship",
+    "legitimate",
+    "phishing",
+    "prize_lottery",
+    "support_impersonation",
+    "upi_payment"
+  ],
+  "confusion_matrix": [
+    [
+      14,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      8,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      55,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      1,
+      12,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      3,
+      0,
+      6,
+      2,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      12,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12
+    ]
+  ],
+  "binary_scam_vs_legitimate_test": {
+    "tp": 138,
+    "tn": 55,
+    "fp_legit_flagged_as_scam": 0,
+    "fn_scam_missed_as_legit": 11,
+    "precision_scam": 1.0,
+    "recall_scam": 0.9262,
+    "f1_scam": 0.9617
+  },
+  "per_language_test": {
+    "english": {
+      "n_test": 162,
+      "macro_f1": 0.919,
+      "accuracy": 0.9259,
+      "binary": {
+        "tp": 110,
+        "tn": 43,
+        "fp_legit_flagged_as_scam": 0,
+        "fn_scam_missed_as_legit": 9,
+        "precision_scam": 1.0,
+        "recall_scam": 0.9244,
+        "f1_scam": 0.9607
+      }
+    },
+    "tamil_english": {
+      "n_test": 42,
+      "macro_f1": 0.3029,
+      "accuracy": 0.4762,
+      "binary": {
+        "tp": 28,
+        "tn": 12,
+        "fp_legit_flagged_as_scam": 0,
+        "fn_scam_missed_as_legit": 2,
+        "precision_scam": 1.0,
+        "recall_scam": 0.9333,
+        "f1_scam": 0.9655
+      }
+    }
+  },
+  "templates_in_test_never_seen_in_train": true
+}

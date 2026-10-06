@@ -1,0 +1,39 @@
+test_negation_suppresses_otp_request (test_pipeline.TestEvidence.test_negation_suppresses_otp_request) ... ok
+test_structured_evidence (test_pipeline.TestEvidence.test_structured_evidence) ... ok
+test_control_chars_stripped (test_pipeline.TestInvalid.test_control_chars_stripped) ... ok
+test_empty (test_pipeline.TestInvalid.test_empty) ... ok
+test_html_input_is_plain_text (test_pipeline.TestInvalid.test_html_input_is_plain_text) ... ok
+test_none (test_pipeline.TestInvalid.test_none) ... ok
+test_ocr_not_enabled_message (test_pipeline.TestInvalid.test_ocr_not_enabled_message) ... ok
+test_oversized_file (test_pipeline.TestInvalid.test_oversized_file) ... ok
+test_unsupported_file (test_pipeline.TestInvalid.test_unsupported_file) ... ok
+test_very_long (test_pipeline.TestInvalid.test_very_long) ... ok
+test_wrong_type (test_pipeline.TestInvalid.test_wrong_type) ... ok
+test_bank_debit_alert (test_pipeline.TestLegitimate.test_bank_debit_alert) ... ok
+test_casual_chat (test_pipeline.TestLegitimate.test_casual_chat) ... ok
+test_legit_with_urgent_word (test_pipeline.TestLegitimate.test_legit_with_urgent_word) ... ok
+test_otp_notice_not_flagged (test_pipeline.TestLegitimate.test_otp_notice_not_flagged) ... ok
+test_ai_style_scam (test_pipeline.TestScams.test_ai_style_scam) ... ok
+test_job_scam (test_pipeline.TestScams.test_job_scam) ... ok
+test_kyc_scam (test_pipeline.TestScams.test_kyc_scam) ... ok
+test_obvious_phishing (test_pipeline.TestScams.test_obvious_phishing) ... ok
+test_subtle_phishing (test_pipeline.TestScams.test_subtle_phishing) ... ok
+test_tamil_english (test_pipeline.TestScams.test_tamil_english) ... ok
+test_upi_scam (test_pipeline.TestScams.test_upi_scam) ... ok
+test_ip_url (test_pipeline.TestUrls.test_ip_url) ... ok
+test_lookalike (test_pipeline.TestUrls.test_lookalike) ... ok
+test_official_domain_not_lookalike (test_pipeline.TestUrls.test_official_domain_not_lookalike) ... ok
+test_shortener (test_pipeline.TestUrls.test_shortener) ... ok
+test_url_never_fetched (test_pipeline.TestUrls.test_url_never_fetched) ... ok
+test_url_only_input (test_pipeline.TestUrls.test_url_only_input) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 1.302s
+
+OK
+
+NOTES: All 28 tests pass in this environment. Tests were written alongside the rules by the same author, so they
+show the pipeline behaves as designed; they are NOT an independent accuracy measurement. See docs/robustness_*.txt
+for a check on unseen messages (7/12 before fix, 9/12 after; the 12 are now development cases).
+The Streamlit UI could not be launched in the build sandbox (no network to install streamlit); only py_compile syntax
+check was run. Please run the app locally and confirm every button works before the demo.
