@@ -68,4 +68,9 @@ Text is analysed in memory; the app writes nothing to disk and does not log subm
 Public datasets + real evaluation, more Indian languages, OCR, FastAPI service with rate limiting, browser extension, reputation feeds.
 
 ## Team
-Team **Safeguard** - CRYPTAURA 2.0 (add member names here).
+Team **Safeguard** - CRYPTAURA 2.0 
+
+(MAHALAKSHMI
+MUTHULAKSHMI
+MOULIKA
+LAKSHETHA).
